@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+        .error {
+            border: 1px solid red;
+        }
+    </style>
+  </head>
+  <body>
+    <h3>My First Adder</h3>
+    <div>
+      <label for="first">First Number</label>
+      <input type="text" id="first" />
+    </div>
+    <div>
+      <label for="second">Second Number</label>
+      <input type="text" id="second" />
+    </div>
+    <div>
+      <button id="add">Add</button>
+    </div>
+    <div>
+      <label for="result">Result</label>
+      <input type="text" id="result" disabled />
+    </div>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", () => {
+        const first = document.getElementById("first");
+        const second = document.getElementById("second");
+        const result = document.getElementById("result");
+        const add = document.getElementById("add");
+
+        add.addEventListener("click", () => {
+          const firstValue = Number(first.value);
+          const secondValue = Number(second.value);
+          const resultValue = firstValue + secondValue;
+          result.value = resultValue;
+        });
+      });
+    </script>
+  </body>
+</html>
