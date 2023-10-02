@@ -1,3 +1,5 @@
+@import url('https://fonts.cdnfonts.com/css/seven-segment');
+
 .digit {
     width: 50px;
     height: 50px;
@@ -9,6 +11,10 @@
     font-size: 30px;
     color: #fff;
     margin: 10px;
+}
+
+.digit:active {
+    background-color: #c00;
 }
 
 .operator {
@@ -24,6 +30,10 @@
     margin: 10px;
 }
 
+.operator:active {
+    background-color: #00c;
+}
+
 .row {
     margin: 10px;
     text-align: center;
@@ -34,12 +44,14 @@
     height: 50px;
     background-color: #000;
     color: #fff;
-    font-size: 30px;
+    font-size: 60px;
     text-align: right;
     padding-right: 10px;
     margin-bottom: 10px;
+    font-family: 'Seven Segment', sans-serif;
 }
 
 .title {
-    
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
