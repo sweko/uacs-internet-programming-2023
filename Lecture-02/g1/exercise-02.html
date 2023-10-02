@@ -5,9 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
     <style>
-        .error {
-            border: 1px solid red;
-        }
+      .error {
+        border: 1px solid red;
+      }
     </style>
   </head>
   <body>
@@ -29,7 +29,7 @@
     </div>
 
     <script>
-      document.addEventListener("DOMContentLoaded", () => {
+      const myMainMethod = () => {
         const first = document.getElementById("first");
         const second = document.getElementById("second");
         const result = document.getElementById("result");
@@ -41,7 +41,9 @@
           const resultValue = firstValue + secondValue;
           result.value = resultValue;
         });
-      });
+      };
+
+      document.addEventListener("DOMContentLoaded", myMainMethod);
     </script>
   </body>
 </html>
