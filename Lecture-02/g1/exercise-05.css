@@ -1,57 +1,59 @@
-@import url('https://fonts.cdnfonts.com/css/seven-segment');
+@import url("https://fonts.cdnfonts.com/css/seven-segment");
+@import url("https://fonts.cdnfonts.com/css/drius");
 
 .digit {
-    width: 50px;
-    height: 50px;
-    background-color: #f00;
-    border-radius: 50%;
-    display: inline-block;
-    text-align: center;
-    line-height: 50px;
-    font-size: 30px;
-    color: #fff;
-    margin: 10px;
+  width: 50px;
+  height: 50px;
+  background-color: #f00;
+  border-radius: 50%;
+  display: inline-block;
+  text-align: center;
+  line-height: 50px;
+  font-size: 30px;
+  color: #fff;
+  margin: 10px;
 }
 
 .digit:active {
-    background-color: #c00;
+  background-color: #c00;
 }
 
 .operator {
-    width: 50px;
-    height: 50px;
-    background-color: #00f;
-    border-radius: 50%;
-    display: inline-block;
-    text-align: center;
-    line-height: 50px;
-    font-size: 30px;
-    color: #fff;
-    margin: 10px;
+  width: 50px;
+  height: 50px;
+  background-color: #00f;
+  border-radius: 50%;
+  display: inline-block;
+  text-align: center;
+  line-height: 50px;
+  font-size: 30px;
+  color: #fff;
+  margin: 10px;
 }
 
 .operator:active {
-    background-color: #00c;
+  background-color: #00c;
 }
 
 .row {
-    margin: 10px;
-    text-align: center;
+  margin: 10px;
+  text-align: center;
 }
 
 #result {
-    width: 350px;
-    height: 50px;
-    background-color: #000;
-    color: #fff;
-    font-size: 60px;
-    text-align: right;
-    padding-right: 10px;
-    margin-bottom: 10px;
-    font-family: 'Seven Segment', sans-serif;
+  width: 350px;
+  height: 50px;
+  background-color: #000;
+  color: #fff;
+  font-size: 60px;
+  text-align: right;
+  padding-right: 10px;
+  margin-bottom: 10px;
+  font-family: "Seven Segment", sans-serif;
 }
 
 .title {
-    text-align: center;
-    font-family: 'Lucida Sans', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+  /*font-family: "Lucida Sans", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;*/
+  font-family: 'Drius', sans-serif;
 }

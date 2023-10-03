@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM Selection Examples</title>
+    <style>
+        /* Add some basic styling for visual clarity */
+        div {
+            margin: 10px;
+            padding: 10px;
+            border: 1px solid #333;
+            background-color: #f0f0f0;
+        }
+
+        .list-item {
+            border: 1px solid red;
+            color: lime;
+        }
+    </style>
+</head>
+<body>
+    <h1>DOM Selection Examples</h1>
+
+    <div id="elementSelection">
+        <h2 >Element Selection</h2>
+        <p id="paragraph">This is NOT a paragraph.</p>
+        <ul>
+            <li class="list-item">Item 1</li>
+            <li class="list-item">Item 2</li>
+            <li class="list-item">Item 3</li>
+            <li class="list-item">Item 4</li>
+            <li class="list-item">Item 5</li>
+        </ul>
+        <button id="selectButton">Select Elements</button>
+    </div>
+
+    <div id="attributeSelection">
+        <h2>Attribute Selection</h2>
+        <input type="text" id="textInput" value="Initial Value">
+        <button id="getAttributeButton">Get Attribute</button>
+        <button id="setAttributeButton">Set Attribute</button>
+    </div>
+
+    <div id="collectionSelection">
+        <h2>Node List Collection</h2>
+        <ul>
+            <li>Apple</li>
+            <li>Banana</li>
+            <li>Cherry</li>
+        </ul>
+        <button id="selectListItems">Select List Items</button>
+    </div>
+
+    <script>
+        // JavaScript code for DOM selection examples
+
+        // Element Selection
+        document.getElementById('selectButton').addEventListener('click', function () {
+            const paragraph = document.getElementById('paragraph');
+            const listItems = document.querySelectorAll('.list-item');
+            console.log(`Selected paragraph text: ${paragraph.textContent}\nNumber of list items: ${listItems.length}`);
+            for (let index = 0; index < listItems.length; index++) {
+                const listItem = listItems[index];
+                console.log(`List item ${index + 1}: ${listItem.textContent}`);
+            }
+        });
+
+        // Attribute Selection
+        document.getElementById('getAttributeButton').addEventListener('click', function () {
+            const textInput = document.getElementById('textInput');
+            const attributeValue = textInput.getAttribute('value');
+            const actualValue = textInput.value;
+            console.log(`Value attribute: ${attributeValue}`);
+            console.log(`Actual value: ${actualValue}`);
+        });
+
+        document.getElementById('setAttributeButton').addEventListener('click', function () {
+            const textInput = document.getElementById('textInput');
+            const actualValue = textInput.value;
+            const newValue = 'New Value UACS';
+            textInput.setAttribute('value', newValue);
+            console.log(`Value attribute set to: ${newValue}`);
+            console.log(`Actual value: ${actualValue}`);
+        });
+
+        // Collection Selection
+        document.getElementById('selectListItems').addEventListener('click', function () {
+            // const listItems = document.querySelectorAll('#collectionSelection ul li');
+            // const itemText = Array.from(listItems).map(item => item.textContent).join(', ');
+            // console.log(`List Items: ${itemText}`);
+            const ulElement = document.querySelector('#collectionSelection ul');
+            //const listItems = ulElement.querySelectorAll('li');
+            const listItems = ulElement.children;
+            const itemText = Array.from(listItems).map(item => item.textContent).join(', ');
+            console.log(`List Items: ${itemText}`);
+
+        });
+    </script>
+</body>
+</html>
