@@ -23,7 +23,7 @@
     <h1>DOM Selection Examples</h1>
 
     <div id="elementSelection">
-        <h2 >Element Selection</h2>
+        <h2>Element Selection</h2>
         <p id="paragraph">This is a paragraph.</p>
         <ul>
             <li class="list-item">Item 1</li>
@@ -84,11 +84,10 @@
 
         // Collection Selection
         document.getElementById('selectListItems').addEventListener('click', function () {
+            // const listItems = document.querySelectorAll('ul li');
             // const listItems = document.querySelectorAll('#collectionSelection ul li');
-            // const itemText = Array.from(listItems).map(item => item.textContent).join(', ');
-            // console.log(`List Items: ${itemText}`);
             const ulElement = document.querySelector('#collectionSelection ul');
-            //const listItems = ulElement.querySelectorAll('li');
+            // const listItems = ulElement.querySelectorAll('li');
             const listItems = ulElement.children;
             const itemText = Array.from(listItems).map(item => item.textContent).join(', ');
             console.log(`List Items: ${itemText}`);

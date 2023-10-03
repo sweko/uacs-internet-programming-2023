@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inline JavaScript</title>
+</head>
+<body>
+    <h2>Inline JavaScript</h2>
+    <script>
+        console.log("Hello World from inline script");
+
+        function add(a, b) {
+            const result = a + b;
+            return result.toFixed(2);
+        }
+    </script>
+
+    <p>I'm a paragraph</p>
+    <script>
+        console.log(add(7, 9));
+        // console.log(add("weko", "Stefanovski"));
+    </script>
+</body>
+</html>

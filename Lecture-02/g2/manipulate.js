@@ -4,11 +4,15 @@ document.addEventListener("DOMContentLoaded", function () {
   const siblings = document.getElementById("siblings");
 
   // Add Element
-  document.getElementById("addButton").addEventListener("click", function () {
+  const addButton = document.getElementById("addButton");
+
+  function addAnElement() {
     const newElement = document.createElement("p");
     newElement.textContent = "Newly Added Element";
     container.appendChild(newElement);
-  });
+  }
+  
+  addButton.addEventListener("click", addAnElement);
 
   // Remove Element
   document
