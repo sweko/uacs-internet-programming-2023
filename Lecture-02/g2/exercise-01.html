@@ -24,5 +24,21 @@
     <p>Paragraph 3</p>
 
 
+    <button id="toggleParagraph">Click Me to change the active paragraph</button>
+
+    <script>
+        const button = document.getElementById("toggleParagraph");
+        button.addEventListener("click", function() {
+            const paragraphs = document.getElementsByTagName("p");
+            for (const paragraph of paragraphs) {
+                paragraph.classList.toggle("active");
+                // if (paragraph.classList.contains("active")) {
+                //     paragraph.classList.remove("active");
+                // } else {
+                //     paragraph.classList.add("active");
+                // }
+            }
+        })
+    </script>
 </body>
 </html>

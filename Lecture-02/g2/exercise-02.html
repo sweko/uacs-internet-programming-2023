@@ -8,6 +8,11 @@
       .error {
         border: 1px solid red;
       }
+
+      .error:focus {
+        border: 1px dashed red;
+        outline: none;
+      }
     </style>
   </head>
   <body>
@@ -39,8 +44,29 @@
           const firstValue = Number(first.value);
           const secondValue = Number(second.value);
           const resultValue = firstValue + secondValue;
-          result.value = resultValue;
+          if (Number.isNaN(resultValue)) {
+            result.classList.add("error");
+            result.value = "ERROR";
+          } else {
+            result.classList.remove("error");
+            result.value = resultValue;
+          }
+          //result.value = resultValue;
         });
+
+        // const validator = ({target}) => {
+        //   const value = Number(target.value);
+        //   if (isNaN(value)) {
+        //     target.classList.add("error");
+        //     add.disabled = true;
+        //   } else {
+        //     target.classList.remove("error");
+        //     add.disabled = false;
+        //   }
+        // }
+
+        // first.addEventListener("keyup", validator);
+        // second.addEventListener("keyup", validator);
       };
 
       document.addEventListener("DOMContentLoaded", myMainMethod);

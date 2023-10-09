@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Calculator</title>
+    <link href="https://fonts.cdnfonts.com/css/seven-segment" rel="stylesheet">
+    <link href="https://fonts.cdnfonts.com/css/drius" rel="stylesheet">
+    <link href="exercise-05.css" rel="stylesheet" />
+  </head>
+  <body>
+    <h2 class="title">UACS Calculator</h2>
+    <div class="row">
+        <input type="text" id="result" value="1234" disabled />
+    </div>
+    <div class="row">
+      <button class="digit" id="one" data-value="1">1</button>
+      <button class="digit" id="two" data-value="2">2</button>
+      <button class="digit" id="three" data-value="3">3</button>
+      <button class="operator" id="add" data-value="+">+</button>
+    </div>
+    <div class="row">
+      <button class="digit" id="four" data-value="4">4</button>
+      <button class="digit" id="five" data-value="5">5</button>
+      <button class="digit" id="six" data-value="6">6</button>
+      <button class="operator" id="subtract" data-value="-">-</button>
+    </div>
+    <div class="row">
+      <button class="digit" id="seven" data-value="7">7</button>
+      <button class="digit" id="eight" data-value="8">8</button>
+      <button class="digit" id="nine" data-value="9">9</button>
+      <button class="operator" id="multiply" data-value="*">*</button>
+    </div>
+    <div class="row">
+        <button class="operator" id="clear" data-value="C">C</button>
+        <button class="digit" id="zero" data-value="0">0</button>
+        <button class="operator" id="equals" data-value="=">=</button>
+        <button class="operator" id="divide" data-value="/">/</button>
+    </div>
+    <script src="exercise-05.js"></script>
+  </body>
+</html>
