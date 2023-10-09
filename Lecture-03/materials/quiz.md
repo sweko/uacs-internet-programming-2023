@@ -24,7 +24,6 @@ Create a simple quiz application where users can answer multiple-choice question
     <div id="quiz-container">
         <!-- Questions and options will be dynamically generated here -->
     </div>
-    <button id="submit-button">Submit Answers</button>
     <div id="results"></div>
 
     <script src="script.js"></script>
@@ -163,7 +162,6 @@ const questions = [
 
 const quizContainer = document.getElementById("quiz-container");
 const resultsContainer = document.getElementById("results");
-const submitButton = document.getElementById("submit-button");
 
 // Function to display quiz questions and options
 function displayQuizQuestions() {
@@ -179,9 +177,6 @@ function calculateScore() {
 function showResults() {
     // Code to display user's score and feedback after submitting the quiz
 }
-
-// Event listener for submit button click
-submitButton.addEventListener("click", showResults);
 
 // Initial function call to display quiz questions when the page loads
 displayQuizQuestions();
