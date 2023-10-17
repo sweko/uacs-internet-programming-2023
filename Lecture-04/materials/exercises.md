@@ -10,7 +10,8 @@ Create a TypeScript file named `basic.ts` and complete the following tasks:
 
 - Declare a variable of type `number` named `age` and assign it the value 25.
 - Declare a string variable named `name` with a type annotation, and set it to your name.
-- Create a function named `addNumbers` that takes two parameters, `first` and `second`, both of type `number`, and returns their sum. Call this function and store the result in a variable. Thenlog the result to the console.
+- Create a function named `addNumbers` that takes two parameters, `first` and `second`, both of type `number`, and returns their sum.
+- Call this function and store the result in a variable, then log the result to the console.
 
 ## Exercise 3: Interfaces and Classes
 
