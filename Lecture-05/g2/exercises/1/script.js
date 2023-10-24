@@ -11,6 +11,11 @@ const f2 = function () {
 };
 
 const doTwoStuffs = function (firstCallback, secondCallback) {
-    // ...
+    doStuffLater(() => {
+        firstCallback();
+        doStuffLater(secondCallback);
+    });
 };
+
+doTwoStuffs(f1, f2);
 
