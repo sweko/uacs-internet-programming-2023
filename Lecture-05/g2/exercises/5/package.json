@@ -1,0 +1,16 @@
+{
+  "name": "lecture-5-exercise-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "cross-env-file -p ./.env-local tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cross-env-file": "^1.0.0"
+  }
+}
