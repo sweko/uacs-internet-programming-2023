@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.8.8"
+  },
+  "name": "l5-g2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "undici-types": "^5.25.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
