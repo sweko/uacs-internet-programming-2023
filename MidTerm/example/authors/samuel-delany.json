@@ -1,0 +1,79 @@
+{
+    "author": {
+        "name": "Samuel R. Delany",
+        "birth_date": "1942-04-01",
+        "nationality": "American",
+        "bibliography": [
+            {
+                "name": "Babel-17",
+                "year": 1966,
+                "type": "Novel"
+            },
+            {
+                "name": "The Einstein Intersection",
+                "year": 1967,
+                "type": "Novel"
+            },
+            {
+                "name": "Nova",
+                "year": 1968,
+                "type": "Novel"
+            },
+            {
+                "name": "Dhalgren",
+                "year": 1975,
+                "type": "Novel"
+            },
+            {
+                "name": "Triton",
+                "year": 1976,
+                "type": "Novel"
+            },
+            {
+                "name": "The Ballad of Beta-2",
+                "year": 1965,
+                "type": "Novel"
+            },
+            {
+                "name": "Stars in My Pocket Like Grains of Sand",
+                "year": 1984,
+                "type": "Novel"
+            },
+            {
+                "name": "The Bridge of Lost Desire",
+                "year": 1987,
+                "type": "Novel"
+            },
+            {
+                "name": "Through the Valley of the Nest of Spiders",
+                "year": 2012,
+                "type": "Novel"
+            },
+            {
+                "name": "Phallos",
+                "year": 2004,
+                "type": "Novel"
+            },
+            {
+                "name": "Dark Reflections",
+                "year": 2007,
+                "type": "Collection"
+            },
+            {
+                "name": "They Fly at Çiron",
+                "year": 1993,
+                "type": "Novel"
+            },
+            {
+                "name": "Aye, and Gomorrah, and Other Stories",
+                "year": 2002,
+                "type": "Collection"
+            },
+            {
+                "name": "The Mad Man",
+                "year": 1994,
+                "type": "Novel"
+            }
+        ]
+    }
+}

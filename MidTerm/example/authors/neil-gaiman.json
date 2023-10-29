@@ -1,0 +1,84 @@
+{
+    "author": {
+        "name": "Neil Gaiman",
+        "birth_date": "1960-11-10",
+        "nationality": "British",
+        "bibliography": [
+            {
+                "name": "American Gods",
+                "year": 2001,
+                "type": "Novel"
+            },
+            {
+                "name": "Neverwhere",
+                "year": 1996,
+                "type": "Novel"
+            },
+            {
+                "name": "Coraline",
+                "year": 2002,
+                "type": "Novel"
+            },
+            {
+                "name": "The Ocean at the End of the Lane",
+                "year": 2013,
+                "type": "Novel"
+            },
+            {
+                "name": "Good Omens",
+                "year": 1990,
+                "type": "Novel"
+            },
+            {
+                "name": "Stardust",
+                "year": 1998,
+                "type": "Novel"
+            },
+            {
+                "name": "Anansi Boys",
+                "year": 2005,
+                "type": "Novel"
+            },
+            {
+                "name": "The Graveyard Book",
+                "year": 2008,
+                "type": "Novel"
+            },
+            {
+                "name": "Fragile Things",
+                "year": 2006,
+                "type": "Collection"
+            },
+            {
+                "name": "The Sandman",
+                "year": 1989,
+                "type": "Graphic Novel"
+            },
+            {
+                "name": "Smoke and Mirrors",
+                "year": 1998,
+                "type": "Collection"
+            },
+            {
+                "name": "Norse Mythology",
+                "year": 2017,
+                "type": "Collection"
+            },
+            {
+                "name": "The View from the Cheap Seats",
+                "year": 2016,
+                "type": "Non-Fiction"
+            },
+            {
+                "name": "The Sleeper and the Spindle",
+                "year": 2014,
+                "type": "Novel"
+            },
+            {
+                "name": "Art Matters",
+                "year": 2018,
+                "type": "Non-Fiction"
+            }
+        ]
+    }
+}

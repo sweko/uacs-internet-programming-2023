@@ -1,0 +1,200 @@
+{
+    "author": {
+        "name": "Philip K. Dick",
+        "birth_date": "1928-12-16",
+        "death_date": "1982-03-02",
+        "nationality": "American",
+        "bibliography": [
+            {
+                "name": "Do Androids Dream of Electric Sheep?",
+                "year": 1968,
+                "type": "Novel"
+            },
+            {
+                "name": "A Scanner Darkly",
+                "year": 1977,
+                "type": "Novel"
+            },
+            {
+                "name": "Ubik",
+                "year": 1969,
+                "type": "Novel"
+            },
+            {
+                "name": "The Man in the High Castle",
+                "year": 1962,
+                "type": "Novel"
+            },
+            {
+                "name": "VALIS",
+                "year": 1981,
+                "type": "Novel"
+            },
+            {
+                "name": "Flow My Tears, the Policeman Said",
+                "year": 1974,
+                "type": "Novel"
+            },
+            {
+                "name": "The Three Stigmata of Palmer Eldritch",
+                "year": 1965,
+                "type": "Novel"
+            },
+            {
+                "name": "Martian Time-Slip",
+                "year": 1964,
+                "type": "Novel"
+            },
+            {
+                "name": "Dr. Bloodmoney",
+                "year": 1965,
+                "type": "Novel"
+            },
+            {
+                "name": "A Maze of Death",
+                "year": 1970,
+                "type": "Novel"
+            },
+            {
+                "name": "The Simulacra",
+                "year": 1964,
+                "type": "Novel"
+            },
+            {
+                "name": "Counter-Clock World",
+                "year": 1967,
+                "type": "Novel"
+            },
+            {
+                "name": "Eye in the Sky",
+                "year": 1957,
+                "type": "Novel"
+            },
+            {
+                "name": "Clans of the Alphane Moon",
+                "year": 1964,
+                "type": "Novel"
+            },
+            {
+                "name": "The Divine Invasion",
+                "year": 1981,
+                "type": "Novel"
+            },
+            {
+                "name": "The World Jones Made",
+                "year": 1956,
+                "type": "Novel"
+            },
+            {
+                "name": "Now Wait for Last Year",
+                "year": 1966,
+                "type": "Novel"
+            },
+            {
+                "name": "Time Out of Joint",
+                "year": 1959,
+                "type": "Novel"
+            },
+            {
+                "name": "The Penultimate Truth",
+                "year": 1964,
+                "type": "Novel"
+            },
+            {
+                "name": "Galactic Pot-Healer",
+                "year": 1969,
+                "type": "Novel"
+            },
+            {
+                "name": "The Game-Players of Titan",
+                "year": 1963,
+                "type": "Novel"
+            },
+            {
+                "name": "Radio Free Albemuth",
+                "year": 1985,
+                "type": "Novel"
+            },
+            {
+                "name": "The Zap Gun",
+                "year": 1967,
+                "type": "Novel"
+            },
+            {
+                "name": "The Crack in Space",
+                "year": 1966,
+                "type": "Novel"
+            },
+            {
+                "name": "Lies, Inc.",
+                "year": 1984,
+                "type": "Novel"
+            },
+            {
+                "name": "The Cosmic Puppets",
+                "year": 1957,
+                "type": "Novel"
+            },
+            {
+                "name": "Beyond the Door",
+                "year": 1954,
+                "type": "Collection"
+            },
+            {
+                "name": "The Minority Report",
+                "year": 2002,
+                "type": "Collection"
+            },
+            {
+                "name": "The Golden Man",
+                "year": 1980,
+                "type": "Collection"
+            },
+            {
+                "name": "We Can Remember It for You Wholesale",
+                "year": 2002,
+                "type": "Collection"
+            },
+            {
+                "name": "A Handful of Darkness",
+                "year": 1981,
+                "type": "Collection"
+            },
+            {
+                "name": "The Father-Thing",
+                "year": 1987,
+                "type": "Collection"
+            },
+            {
+                "name": "The Adjustment Team",
+                "year": 2011,
+                "type": "Collection"
+            },
+            {
+                "name": "We Can Build You",
+                "year": 1972,
+                "type": "Novel"
+            },
+            {
+                "name": "Deus Irae",
+                "year": 1976,
+                "type": "Novel"
+            },
+            {
+                "name": "Dr. Futurity",
+                "year": 1960,
+                "type": "Novel"
+            },
+            {
+                "name": "Nick and the Glimmung",
+                "year": 1988,
+                "type": "Novel"
+            },
+            {
+                "name": "Humpty Dumpty in Oakland",
+                "year": 1986,
+                "type": "Novel"
+            }
+        ]
+    }
+}

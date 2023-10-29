@@ -1,0 +1,59 @@
+{
+    "author": {
+        "name": "Vernor Vinge",
+        "birth_date": "1944-10-02",
+        "nationality": "American",
+        "bibliography": [
+            {
+                "name": "A Fire Upon the Deep",
+                "year": 1992,
+                "type": "Novel"
+            },
+            {
+                "name": "A Deepness in the Sky",
+                "year": 1999,
+                "type": "Novel"
+            },
+            {
+                "name": "Rainbows End",
+                "year": 2006,
+                "type": "Novel"
+            },
+            {
+                "name": "Marooned in Realtime",
+                "year": 1986,
+                "type": "Novel"
+            },
+            {
+                "name": "The Peace War",
+                "year": 1984,
+                "type": "Novel"
+            },
+            {
+                "name": "The Children of the Sky",
+                "year": 2011,
+                "type": "Novel"
+            },
+            {
+                "name": "The Witling",
+                "year": 1976,
+                "type": "Novel"
+            },
+            {
+                "name": "True Names",
+                "year": 1981,
+                "type": "Novel"
+            },
+            {
+                "name": "Fast Times at Fairmont High",
+                "year": 2001,
+                "type": "Novella"
+            },
+            {
+                "name": "The Collected Stories of Vernor Vinge",
+                "year": 2001,
+                "type": "Collection"
+            }
+        ]
+    }
+}

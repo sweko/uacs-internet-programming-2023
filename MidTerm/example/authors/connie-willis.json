@@ -1,0 +1,94 @@
+{
+    "author": {
+        "name": "Connie Willis",
+        "birth_date": "1945-12-31",
+        "nationality": "American",
+        "bibliography": [
+            {
+                "name": "Doomsday Book",
+                "year": 1992,
+                "type": "Novel"
+            },
+            {
+                "name": "To Say Nothing of the Dog",
+                "year": 1997,
+                "type": "Novel"
+            },
+            {
+                "name": "Blackout",
+                "year": 2010,
+                "type": "Novel"
+            },
+            {
+                "name": "All Clear",
+                "year": 2010,
+                "type": "Novel"
+            },
+            {
+                "name": "Lincoln's Dreams",
+                "year": 1987,
+                "type": "Novel"
+            },
+            {
+                "name": "Bellwether",
+                "year": 1996,
+                "type": "Novel"
+            },
+            {
+                "name": "Passage",
+                "year": 2001,
+                "type": "Novel"
+            },
+            {
+                "name": "Crosstalk",
+                "year": 2016,
+                "type": "Novel"
+            },
+            {
+                "name": "Inside Job",
+                "year": 2005,
+                "type": "Novel"
+            },
+            {
+                "name": "Fire Watch",
+                "year": 1984,
+                "type": "Collection"
+            },
+            {
+                "name": "The Best of Connie Willis",
+                "year": 2013,
+                "type": "Collection"
+            },
+            {
+                "name": "Impossible Things",
+                "year": 1993,
+                "type": "Collection"
+            },
+            {
+                "name": "Even the Queen",
+                "year": 1992,
+                "type": "Novella"
+            },
+            {
+                "name": "Remake",
+                "year": 1995,
+                "type": "Novel"
+            },
+            {
+                "name": "The Winds of Marble Arch",
+                "year": 2007,
+                "type": "Collection"
+            },
+            {
+                "name": "All My Darling Daughters",
+                "year": 2005,
+                "type": "Novella"
+            },
+            {
+                "name": "I Met a Traveller in an Antique Land",
+                "year": 2017,
+                "type": "Novel"
+            }
+        ]
+    }
+}

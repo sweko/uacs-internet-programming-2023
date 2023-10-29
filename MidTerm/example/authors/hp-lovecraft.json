@@ -1,0 +1,40 @@
+{
+    "author": {
+        "name": "H.P. Lovecraft",
+        "birth_date": "1890-08-20",
+        "death_date": "1937-03-15",
+        "nationality": "American",
+        "bibliography": [
+            {
+                "name": "At the Mountains of Madness",
+                "year": 1931,
+                "type": "Novella"
+            },
+            {
+                "name": "The Shadow over Innsmouth",
+                "year": 1936,
+                "type": "Novella"
+            },
+            {
+                "name": "The Whisperer in Darkness",
+                "year": 1931,
+                "type": "Novella"
+            },
+            {
+                "name": "The Shadow out of Time",
+                "year": 1934,
+                "type": "Novel"
+            },
+            {
+                "name": "The Case of Charles Dexter Ward",
+                "year": 1941,
+                "type": "Novel"
+            },
+            {
+                "name": "Dream Quest of Unknown Kadath",
+                "year": 1943,
+                "type": "Novel"
+            }
+        ]
+    }
+}

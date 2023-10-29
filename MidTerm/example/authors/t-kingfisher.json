@@ -1,0 +1,64 @@
+{
+    "author": {
+        "name": "T. Kingfisher",
+        "birth_date": "1977-05-28",
+        "nationality": "American",
+        "bibliography": [
+            {
+                "name": "The Twisted Ones",
+                "year": 2019,
+                "type": "Novel"
+            },
+            {
+                "name": "The Clockwork Boys",
+                "year": 2017,
+                "type": "Novel"
+            },
+            {
+                "name": "The Wonder Engine",
+                "year": 2018,
+                "type": "Novel"
+            },
+            {
+                "name": "Paladin's Grace",
+                "year": 2020,
+                "type": "Novel"
+            },
+            {
+                "name": "A Wizard's Guide to Defensive Baking",
+                "year": 2020,
+                "type": "Novel"
+            },
+            {
+                "name": "The Hollow Places",
+                "year": 2020,
+                "type": "Novel"
+            },
+            {
+                "name": "Minor Mage",
+                "year": 2019,
+                "type": "Novel"
+            },
+            {
+                "name": "Swordheart",
+                "year": 2018,
+                "type": "Novel"
+            },
+            {
+                "name": "Nine Goblins",
+                "year": 2016,
+                "type": "Novel"
+            },
+            {
+                "name": "The Seventh Bride",
+                "year": 2014,
+                "type": "Novel"
+            },
+            {
+                "name": "The Raven & The Reindeer",
+                "year": 2017,
+                "type": "Novel"
+            }
+        ]
+    }
+}

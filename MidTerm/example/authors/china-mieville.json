@@ -1,0 +1,79 @@
+{
+    "author": {
+        "name": "China Miéville",
+        "birth_date": "1972-09-30",
+        "nationality": "British",
+        "bibliography": [
+            {
+                "name": "Perdido Street Station",
+                "year": 2000,
+                "type": "Novel"
+            },
+            {
+                "name": "The Scar",
+                "year": 2002,
+                "type": "Novel"
+            },
+            {
+                "name": "Iron Council",
+                "year": 2004,
+                "type": "Novel"
+            },
+            {
+                "name": "King Rat",
+                "year": 1998,
+                "type": "Novel"
+            },
+            {
+                "name": "The City & the City",
+                "year": 2009,
+                "type": "Novel"
+            },
+            {
+                "name": "Embassytown",
+                "year": 2011,
+                "type": "Novel"
+            },
+            {
+                "name": "Railsea",
+                "year": 2012,
+                "type": "Novel"
+            },
+            {
+                "name": "The Last Days of New Paris",
+                "year": 2016,
+                "type": "Novel"
+            },
+            {
+                "name": "The Tain",
+                "year": 2002,
+                "type": "Novel"
+            },
+            {
+                "name": "Three Moments of an Explosion",
+                "year": 2015,
+                "type": "Collection"
+            },
+            {
+                "name": "The Kraken",
+                "year": 2010,
+                "type": "Novel"
+            },
+            {
+                "name": "This Census-Taker",
+                "year": 2016,
+                "type": "Novel"
+            },
+            {
+                "name": "Un Lun Dun",
+                "year": 2007,
+                "type": "Novel"
+            },
+            {
+                "name": "Looking for Jake and Other Stories",
+                "year": 2005,
+                "type": "Collection"
+            }
+        ]
+    }
+}

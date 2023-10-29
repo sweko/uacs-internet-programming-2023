@@ -1,0 +1,120 @@
+{
+    "author": {
+        "name": "Ray Bradbury",
+        "birth_date": "1920-08-22",
+        "death_date": "2012-06-05",
+        "nationality": "American",
+        "bibliography": [
+            {
+                "name": "Fahrenheit 451",
+                "year": 1953,
+                "type": "Novel"
+            },
+            {
+                "name": "The Martian Chronicles",
+                "year": 1950,
+                "type": "Novel"
+            },
+            {
+                "name": "Something Wicked This Way Comes",
+                "year": 1962,
+                "type": "Novel"
+            },
+            {
+                "name": "Dandelion Wine",
+                "year": 1957,
+                "type": "Novel"
+            },
+            {
+                "name": "The Illustrated Man",
+                "year": 1951,
+                "type": "Collection"
+            },
+            {
+                "name": "The Halloween Tree",
+                "year": 1972,
+                "type": "Novel"
+            },
+            {
+                "name": "The October Country",
+                "year": 1955,
+                "type": "Collection"
+            },
+            {
+                "name": "The Golden Apples of the Sun",
+                "year": 1953,
+                "type": "Collection"
+            },
+            {
+                "name": "I Sing the Body Electric!",
+                "year": 1969,
+                "type": "Collection"
+            },
+            {
+                "name": "The Silver Locusts",
+                "year": 1951,
+                "type": "Collection"
+            },
+            {
+                "name": "The Machineries of Joy",
+                "year": 1964,
+                "type": "Collection"
+            },
+            {
+                "name": "A Medicine for Melancholy",
+                "year": 1959,
+                "type": "Collection"
+            },
+            {
+                "name": "R is for Rocket",
+                "year": 1962,
+                "type": "Collection"
+            },
+            {
+                "name": "S is for Space",
+                "year": 1966,
+                "type": "Collection"
+            },
+            {
+                "name": "The Toynbee Convector",
+                "year": 1988,
+                "type": "Collection"
+            },
+            {
+                "name": "A Sound of Thunder and Other Stories",
+                "year": 2005,
+                "type": "Collection"
+            },
+            {
+                "name": "Quicker Than the Eye",
+                "year": 1996,
+                "type": "Collection"
+            },
+            {
+                "name": "Driving Blind",
+                "year": 1997,
+                "type": "Collection"
+            },
+            {
+                "name": "One More for the Road",
+                "year": 2002,
+                "type": "Collection"
+            },
+            {
+                "name": "We'll Always Have Paris",
+                "year": 2009,
+                "type": "Collection"
+            },
+            {
+                "name": "Summer Morning, Summer Night",
+                "year": 2008,
+                "type": "Collection"
+            },
+            {
+                "name": "Match to Flame",
+                "year": 2006,
+                "type": "Collection"
+            }
+        ]
+    }
+}

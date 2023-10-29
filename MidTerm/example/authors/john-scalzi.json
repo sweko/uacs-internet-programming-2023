@@ -1,0 +1,69 @@
+{
+    "author": {
+        "name": "John Scalzi",
+        "birth_date": "1969-05-10",
+        "nationality": "American",
+        "bibliography": [
+            {
+                "name": "Old Man's War",
+                "year": 2005,
+                "type": "Novel"
+            },
+            {
+                "name": "The Ghost Brigades",
+                "year": 2006,
+                "type": "Novel"
+            },
+            {
+                "name": "The Last Colony",
+                "year": 2007,
+                "type": "Novel"
+            },
+            {
+                "name": "Zoe's Tale",
+                "year": 2008,
+                "type": "Novel"
+            },
+            {
+                "name": "The Android's Dream",
+                "year": 2006,
+                "type": "Novel"
+            },
+            {
+                "name": "Fuzzy Nation",
+                "year": 2011,
+                "type": "Novel"
+            },
+            {
+                "name": "Redshirts",
+                "year": 2012,
+                "type": "Novel"
+            },
+            {
+                "name": "Lock In",
+                "year": 2014,
+                "type": "Novel"
+            },
+            {
+                "name": "The Collapsing Empire",
+                "year": 2017,
+                "type": "Novel"
+            },
+            {
+                "name": "The Consuming Fire",
+                "year": 2018,
+                "type": "Novel"
+            },
+            {
+                "name": "The Last Emperox",
+                "year": 2020,
+                "type": "Novel"
+            },
+            {
+                "name": "The Kaiju Preservation Society",
+                "year": 2022,
+                "type": "Novel"
+            }
+        ]
+    }
+}

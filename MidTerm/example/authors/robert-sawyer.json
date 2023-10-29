@@ -1,0 +1,64 @@
+{
+    "author": {
+        "name": "Robert J. Sawyer",
+        "birth_date": "1960-04-29",
+        "nationality": "Canadian",
+        "bibliography": [
+            {
+                "name": "Calculating God",
+                "year": 2000,
+                "type": "Novel"
+            },
+            {
+                "name": "Flashforward",
+                "year": 1999,
+                "type": "Novel"
+            },
+            {
+                "name": "Hominids",
+                "year": 2002,
+                "type": "Novel"
+            },
+            {
+                "name": "Humans",
+                "year": 2003,
+                "type": "Novel"
+            },
+            {
+                "name": "Hybrids",
+                "year": 2003,
+                "type": "Novel"
+            },
+            {
+                "name": "The Terminal Experiment",
+                "year": 1995,
+                "type": "Novel"
+            },
+            {
+                "name": "Mindscan",
+                "year": 2005,
+                "type": "Novel"
+            },
+            {
+                "name": "WWW: Wake",
+                "year": 2009,
+                "type": "Novel"
+            },
+            {
+                "name": "WWW: Watch",
+                "year": 2010,
+                "type": "Novel"
+            },
+            {
+                "name": "WWW: Wonder",
+                "year": 2011,
+                "type": "Novel"
+            },
+            {
+                "name": "Triggers",
+                "year": 2012,
+                "type": "Novel"
+            }
+        ]
+    }
+}

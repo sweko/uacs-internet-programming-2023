@@ -1,0 +1,75 @@
+{
+    "author": {
+        "name": "Octavia E. Butler",
+        "birth_date": "1947-06-22",
+        "death_date": "2006-02-24",
+        "nationality": "American",
+        "bibliography": [
+            {
+                "name": "Kindred",
+                "year": 1979,
+                "type": "Novel"
+            },
+            {
+                "name": "Parable of the Sower",
+                "year": 1993,
+                "type": "Novel"
+            },
+            {
+                "name": "Parable of the Talents",
+                "year": 1998,
+                "type": "Novel"
+            },
+            {
+                "name": "Wild Seed",
+                "year": 1980,
+                "type": "Novel"
+            },
+            {
+                "name": "Dawn",
+                "year": 1987,
+                "type": "Novel"
+            },
+            {
+                "name": "Adulthood Rites",
+                "year": 1988,
+                "type": "Novel"
+            },
+            {
+                "name": "Imago",
+                "year": 1989,
+                "type": "Novel"
+            },
+            {
+                "name": "Patternmaster",
+                "year": 1976,
+                "type": "Novel"
+            },
+            {
+                "name": "Clay's Ark",
+                "year": 1984,
+                "type": "Novel"
+            },
+            {
+                "name": "Survivor",
+                "year": 1978,
+                "type": "Novel"
+            },
+            {
+                "name": "Mind of My Mind",
+                "year": 1977,
+                "type": "Novel"
+            },
+            {
+                "name": "Bloodchild and Other Stories",
+                "year": 1995,
+                "type": "Collection"
+            },
+            {
+                "name": "Fledgling",
+                "year": 2005,
+                "type": "Novel"
+            }
+        ]
+    }
+}

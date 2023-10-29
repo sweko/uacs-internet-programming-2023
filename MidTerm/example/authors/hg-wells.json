@@ -1,0 +1,85 @@
+{
+    "author": {
+        "name": "H.G. Wells",
+        "birth_date": "1866-09-21",
+        "death_date": "1946-08-13",
+        "nationality": "British",
+        "bibliography": [
+            {
+                "name": "The War of the Worlds",
+                "year": 1898,
+                "type": "Novel"
+            },
+            {
+                "name": "The Time Machine",
+                "year": 1895,
+                "type": "Novel"
+            },
+            {
+                "name": "The Invisible Man",
+                "year": 1897,
+                "type": "Novel"
+            },
+            {
+                "name": "The Island of Doctor Moreau",
+                "year": 1896,
+                "type": "Novel"
+            },
+            {
+                "name": "The First Men in the Moon",
+                "year": 1901,
+                "type": "Novel"
+            },
+            {
+                "name": "The Shape of Things to Come",
+                "year": 1933,
+                "type": "Novel"
+            },
+            {
+                "name": "The Sleeper Awakes",
+                "year": 1899,
+                "type": "Novel"
+            },
+            {
+                "name": "The Food of the Gods and How It Came to Earth",
+                "year": 1904,
+                "type": "Novel"
+            },
+            {
+                "name": "The War in the Air",
+                "year": 1907,
+                "type": "Novel"
+            },
+            {
+                "name": "The Wheels of Chance",
+                "year": 1896,
+                "type": "Novel"
+            },
+            {
+                "name": "The Door in the Wall and Other Stories",
+                "year": 1911,
+                "type": "Collection"
+            },
+            {
+                "name": "The Stolen Bacillus and Other Incidents",
+                "year": 1895,
+                "type": "Collection"
+            },
+            {
+                "name": "The Red Room",
+                "year": 1896,
+                "type": "Collection"
+            },
+            {
+                "name": "The Crystal Egg and Other Stories",
+                "year": 1897,
+                "type": "Collection"
+            },
+            {
+                "name": "The Country of the Blind and Other Stories",
+                "year": 1911,
+                "type": "Collection"
+            }
+        ]
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "author": {
+        "name": "Joe Haldeman",
+        "birth_date": "1943-06-09",
+        "nationality": "American",
+        "bibliography": [
+            {
+                "name": "The Forever War",
+                "year": 1974,
+                "type": "Novel"
+            },
+            {
+                "name": "Forever Peace",
+                "year": 1997,
+                "type": "Novel"
+            },
+            {
+                "name": "Forever Free",
+                "year": 1999,
+                "type": "Novel"
+            },
+            {
+                "name": "The Accidental Time Machine",
+                "year": 2007,
+                "type": "Novel"
+            },
+            {
+                "name": "The Hemingway Hoax",
+                "year": 1990,
+                "type": "Novel"
+            },
+            {
+                "name": "Buying Time",
+                "year": 1989,
+                "type": "Novel"
+            },
+            {
+                "name": "The Coming",
+                "year": 2000,
+                "type": "Novel"
+            },
+            {
+                "name": "Camouflage",
+                "year": 2004,
+                "type": "Novel"
+            },
+            {
+                "name": "Marsbound",
+                "year": 2008,
+                "type": "Novel"
+            },
+            {
+                "name": "Earthbound",
+                "year": 2011,
+                "type": "Novel"
+            },
+            {
+                "name": "Work Done for Hire",
+                "year": 2014,
+                "type": "Novel"
+            },
+            {
+                "name": "War Year",
+                "year": 1972,
+                "type": "Novel"
+            },
+            {
+                "name": "Old Twentieth",
+                "year": 2005,
+                "type": "Novel"
+            },
+            {
+                "name": "There Is No Darkness",
+                "year": 1983,
+                "type": "Novel"
+            },
+            {
+                "name": "Tool of the Trade",
+                "year": 1987,
+                "type": "Novel"
+            },
+            {
+                "name": "Mindbridge",
+                "year": 1976,
+                "type": "Novel"
+            },
+            {
+                "name": "Dealing in Futures",
+                "year": 1985,
+                "type": "Novel"
+            }
+        ]
+    }
+}

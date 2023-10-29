@@ -1,0 +1,94 @@
+{
+    "author": {
+        "name": "Dan Simmons",
+        "birth_date": "1948-04-04",
+        "nationality": "American",
+        "bibliography": [
+            {
+                "name": "Hyperion",
+                "year": 1989,
+                "type": "Novel"
+            },
+            {
+                "name": "The Fall of Hyperion",
+                "year": 1990,
+                "type": "Novel"
+            },
+            {
+                "name": "Endymion",
+                "year": 1996,
+                "type": "Novel"
+            },
+            {
+                "name": "The Rise of Endymion",
+                "year": 1997,
+                "type": "Novel"
+            },
+            {
+                "name": "Carrion Comfort",
+                "year": 1989,
+                "type": "Novel"
+            },
+            {
+                "name": "Ilium",
+                "year": 2003,
+                "type": "Novel"
+            },
+            {
+                "name": "Olympos",
+                "year": 2005,
+                "type": "Novel"
+            },
+            {
+                "name": "Drood",
+                "year": 2009,
+                "type": "Novel"
+            },
+            {
+                "name": "The Terror",
+                "year": 2007,
+                "type": "Novel"
+            },
+            {
+                "name": "Song of Kali",
+                "year": 1985,
+                "type": "Novel"
+            },
+            {
+                "name": "Summer of Night",
+                "year": 1991,
+                "type": "Novel"
+            },
+            {
+                "name": "Children of the Night",
+                "year": 1992,
+                "type": "Novel"
+            },
+            {
+                "name": "The Abominable",
+                "year": 2013,
+                "type": "Novel"
+            },
+            {
+                "name": "Black Hills",
+                "year": 2010,
+                "type": "Novel"
+            },
+            {
+                "name": "The Crook Factory",
+                "year": 1999,
+                "type": "Novel"
+            },
+            {
+                "name": "Hardcase",
+                "year": 2001,
+                "type": "Novel"
+            },
+            {
+                "name": "Worlds Enough & Time",
+                "year": 2001,
+                "type": "Collection"
+            }
+        ]
+    }
+}

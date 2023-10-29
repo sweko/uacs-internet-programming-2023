@@ -1,0 +1,110 @@
+{
+    "author": {
+        "name": "Arthur C. Clarke",
+        "birth_date": "1917-12-16",
+        "death_date": "2008-03-19",
+        "nationality": "British",
+        "bibliography": [
+            {
+                "name": "2001: A Space Odyssey",
+                "year": 1968,
+                "type": "Novel"
+            },
+            {
+                "name": "2010: Odyssey Two",
+                "year": 1982,
+                "type": "Novel"
+            },
+            {
+                "name": "2061: Odyssey Three",
+                "year": 1987,
+                "type": "Novel"
+            },
+            {
+                "name": "3001: The Final Odyssey",
+                "year": 1997,
+                "type": "Novel"
+            },
+            {
+                "name": "Childhood's End",
+                "year": 1953,
+                "type": "Novel"
+            },
+            {
+                "name": "Rendezvous with Rama",
+                "year": 1973,
+                "type": "Novel"
+            },
+            {
+                "name": "The Fountains of Paradise",
+                "year": 1979,
+                "type": "Novel"
+            },
+            {
+                "name": "The City and the Stars",
+                "year": 1956,
+                "type": "Novel"
+            },
+            {
+                "name": "The Light of Other Days",
+                "year": 2000,
+                "type": "Novel"
+            },
+            {
+                "name": "The Songs of Distant Earth",
+                "year": 1986,
+                "type": "Novel"
+            },
+            {
+                "name": "The Sands of Mars",
+                "year": 1951,
+                "type": "Novel"
+            },
+            {
+                "name": "The Hammer of God",
+                "year": 1993,
+                "type": "Novel"
+            },
+            {
+                "name": "The Ghost from the Grand Banks",
+                "year": 1990,
+                "type": "Novel"
+            },
+            {
+                "name": "The Deep Range",
+                "year": 1957,
+                "type": "Novel"
+            },
+            {
+                "name": "A Fall of Moondust",
+                "year": 1961,
+                "type": "Novel"
+            },
+            {
+                "name": "Imperial Earth",
+                "year": 1976,
+                "type": "Novel"
+            },
+            {
+                "name": "The View from Serendip",
+                "year": 1977,
+                "type": "Non-Fiction"
+            },
+            {
+                "name": "Glide Path",
+                "year": 1963,
+                "type": "Novel"
+            },
+            {
+                "name": "The Snows of Olympus",
+                "year": 1994,
+                "type": "Non-Fiction"
+            },
+            {
+                "name": "Profiles of the Future",
+                "year": 1962,
+                "type": "Non-Fiction"
+            }
+        ]
+    }
+}

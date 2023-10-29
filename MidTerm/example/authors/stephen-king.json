@@ -1,0 +1,279 @@
+{
+    "author": {
+        "name": "Stephen King",
+        "birth_date": "1947-09-21",
+        "nationality": "American",
+        "bibliography": [
+            {
+                "name": "Carrie",
+                "year": 1974,
+                "type": "Novel"
+            },
+            {
+                "name": "The Shining",
+                "year": 1977,
+                "type": "Novel"
+            },
+            {
+                "name": "It",
+                "year": 1986,
+                "type": "Novel"
+            },
+            {
+                "name": "The Gunslinger",
+                "year": 1982,
+                "type": "Novel"
+            },
+            {
+                "name": "The Stand",
+                "year": 1978,
+                "type": "Novel"
+            },
+            {
+                "name": "Pet Sematary",
+                "year": 1983,
+                "type": "Novel"
+            },
+            {
+                "name": "Misery",
+                "year": 1987,
+                "type": "Novel"
+            },
+            {
+                "name": "The Green Mile",
+                "year": 1996,
+                "type": "Novel"
+            },
+            {
+                "name": "The Dead Zone",
+                "year": 1979,
+                "type": "Novel"
+            },
+            {
+                "name": "Cujo",
+                "year": 1981,
+                "type": "Novel"
+            },
+            {
+                "name": "Salem's Lot",
+                "year": 1975,
+                "type": "Novel"
+            },
+            {
+                "name": "The Talisman",
+                "year": 1984,
+                "type": "Novel"
+            },
+            {
+                "name": "11/22/63",
+                "year": 2011,
+                "type": "Novel"
+            },
+            {
+                "name": "The Outsider",
+                "year": 2018,
+                "type": "Novel"
+            },
+            {
+                "name": "Doctor Sleep",
+                "year": 2013,
+                "type": "Novel"
+            },
+            {
+                "name": "The Institute",
+                "year": 2019,
+                "type": "Novel"
+            },
+            {
+                "name": "Different Seasons",
+                "year": 1982,
+                "type": "Novel"
+            },
+            {
+                "name": "The Eyes of the Dragon",
+                "year": 1987,
+                "type": "Novel"
+            },
+            {
+                "name": "The Long Walk",
+                "year": 1979,
+                "type": "Novel"
+            },
+            {
+                "name": "The Girl Who Loved Tom Gordon",
+                "year": 1999,
+                "type": "Novel"
+            },
+            {
+                "name": "The Regulators",
+                "year": 1996,
+                "type": "Novel"
+            },
+            {
+                "name": "The Tommyknockers",
+                "year": 1987,
+                "type": "Novel"
+            },
+            {
+                "name": "Desperation",
+                "year": 1996,
+                "type": "Novel"
+            },
+            {
+                "name": "From a Buick 8",
+                "year": 2002,
+                "type": "Novel"
+            },
+            {
+                "name": "Gerald's Game",
+                "year": 1992,
+                "type": "Novel"
+            },
+            {
+                "name": "Needful Things",
+                "year": 1991,
+                "type": "Novel"
+            },
+            {
+                "name": "Dolores Claiborne",
+                "year": 1992,
+                "type": "Novel"
+            },
+            {
+                "name": "Insomnia",
+                "year": 1994,
+                "type": "Novel"
+            },
+            {
+                "name": "Bag of Bones",
+                "year": 1998,
+                "type": "Novel"
+            },
+            {
+                "name": "Hearts in Atlantis",
+                "year": 1999,
+                "type": "Novel"
+            },
+            {
+                "name": "Dreamcatcher",
+                "year": 2001,
+                "type": "Novel"
+            },
+            {
+                "name": "The Drawing of the Three",
+                "year": 1987,
+                "type": "Novel"
+            },
+            {
+                "name": "The Waste Lands",
+                "year": 1991,
+                "type": "Novel"
+            },
+            {
+                "name": "Wizard and Glass",
+                "year": 1997,
+                "type": "Novel"
+            },
+            {
+                "name": "Wolves of the Calla",
+                "year": 2003,
+                "type": "Novel"
+            },
+            {
+                "name": "Song of Susannah",
+                "year": 2004,
+                "type": "Novel"
+            },
+            {
+                "name": "The Dark Tower",
+                "year": 2004,
+                "type": "Novel"
+            },
+            {
+                "name": "Mr. Mercedes",
+                "year": 2014,
+                "type": "Novel"
+            },
+            {
+                "name": "Finders Keepers",
+                "year": 2015,
+                "type": "Novel"
+            },
+            {
+                "name": "End of Watch",
+                "year": 2016,
+                "type": "Novel"
+            },
+            {
+                "name": "The Wind Through the Keyhole",
+                "year": 2012,
+                "type": "Novel"
+            },
+            {
+                "name": "Danse Macabre",
+                "year": 1981,
+                "type": "Non-Fiction"
+            },
+            {
+                "name": "On Writing: A Memoir of the Craft",
+                "year": 2000,
+                "type": "Non-Fiction"
+            },
+            {
+                "name": "The Stand: The Complete and Uncut Edition",
+                "year": 1990,
+                "type": "Novel"
+            },
+            {
+                "name": "Full Dark, No Stars",
+                "year": 2010,
+                "type": "Collection"
+            },
+            {
+                "name": "Blockade Billy",
+                "year": 2010,
+                "type": "Novella"
+            },
+            {
+                "name": "The Colorado Kid",
+                "year": 2005,
+                "type": "Novel"
+            },
+            {
+                "name": "Joyland",
+                "year": 2013,
+                "type": "Novel"
+            },
+            {
+                "name": "Revival",
+                "year": 2014,
+                "type": "Novel"
+            },
+            {
+                "name": "The Bazaar of Bad Dreams",
+                "year": 2015,
+                "type": "Collection"
+            },
+            {
+                "name": "Sleeping Beauties",
+                "year": 2017,
+                "type": "Novel"
+            },
+            {
+                "name": "Elevation",
+                "year": 2018,
+                "type": "Novel"
+            },
+            {
+                "name": "If It Bleeds",
+                "year": 2020,
+                "type": "Collection"
+            },
+            {
+                "name": "Later",
+                "year": 2021,
+                "type": "Novel"
+            }
+        ]
+    }
+}

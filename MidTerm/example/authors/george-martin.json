@@ -1,0 +1,54 @@
+{
+    "author": {
+        "name": "George R.R. Martin",
+        "birth_date": "1948-09-20",
+        "nationality": "American",
+        "bibliography": [
+            {
+                "name": "A Game of Thrones",
+                "year": 1996,
+                "type": "Novel"
+            },
+            {
+                "name": "A Clash of Kings",
+                "year": 1998,
+                "type": "Novel"
+            },
+            {
+                "name": "A Storm of Swords",
+                "year": 2000,
+                "type": "Novel"
+            },
+            {
+                "name": "A Feast for Crows",
+                "year": 2005,
+                "type": "Novel"
+            },
+            {
+                "name": "A Dance with Dragons",
+                "year": 2011,
+                "type": "Novel"
+            },
+            {
+                "name": "Fire & Blood",
+                "year": 2018,
+                "type": "Novel"
+            },
+            {
+                "name": "Tuf Voyaging",
+                "year": 1986,
+                "type": "Novel"
+            },
+            {
+                "name": "Fevre Dream",
+                "year": 1982,
+                "type": "Novel"
+            },
+            {
+                "name": "The Armageddon Rag",
+                "year": 1983,
+                "type": "Novel"
+            }
+        ]
+    }
+}

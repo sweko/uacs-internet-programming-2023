@@ -1,0 +1,39 @@
+{
+    "author": {
+        "name": "Max Brooks",
+        "birth_date": "1972-05-22",
+        "nationality": "American",
+        "bibliography": [
+            {
+                "name": "World War Z: An Oral History of the Zombie War",
+                "year": 2006,
+                "type": "Novel"
+            },
+            {
+                "name": "The Zombie Survival Guide: Complete Protection from the Living Dead",
+                "year": 2003,
+                "type": "Non-Fiction"
+            },
+            {
+                "name": "The Harlem Hellfighters",
+                "year": 2014,
+                "type": "Graphic Novel"
+            },
+            {
+                "name": "Minecraft: The Island",
+                "year": 2017,
+                "type": "Novel"
+            },
+            {
+                "name": "Devolution: A Firsthand Account of the Rainier Sasquatch Massacre",
+                "year": 2020,
+                "type": "Novel"
+            },
+            {
+                "name": "The Extinction Parade",
+                "year": 2013,
+                "type": "Graphic Novel"
+            }
+        ]
+    }
+}
