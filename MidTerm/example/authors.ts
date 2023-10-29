@@ -84,4 +84,6 @@ fs.readdir('./authors', (err, files) => {
     for (const duplicate of duplicates) {
         log(`  ${duplicate.key} has ${duplicate.value.length} entries`);
     }
+
+    fs.writeFileSync('./authors.json', JSON.stringify(authorsData, null, 2));
 });
