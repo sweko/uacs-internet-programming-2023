@@ -4,7 +4,15 @@
 */
 
 function maybeDoStuff(shouldDoStuff: boolean): Promise<void> {
-    // TODO: implement
+    return new Promise((resolve, reject) => {
+        setTimeout(() => {
+            if (shouldDoStuff) {
+                resolve();
+            } else {
+                reject();
+            }
+        }, 2000);
+    });
 }
 
 maybeDoStuff(true)
