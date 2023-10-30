@@ -3,6 +3,14 @@
 - Test your function by calling it and chaining a `.then` method that logs a message to the console, and a `.catch` method that logs an error message to the console.
 */
 
-function maybeDoStuff(shouldDoStuff: boolean) {
+function maybeDoStuff(shouldDoStuff: boolean): Promise<void> {
     // TODO: implement
 }
+
+maybeDoStuff(true)
+    .then(() => console.log('Stuff done!'))
+    .catch(() => console.log('SHOULD NOT HAPPEN!'));
+
+maybeDoStuff(false)
+    .then(() => console.log('SHOULD NOT HAPPEN!'))
+    .catch(() => console.log('Stuff not done!'));
