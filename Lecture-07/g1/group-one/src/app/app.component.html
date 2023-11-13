@@ -1,0 +1,24 @@
+<main class="main">
+  <div class="content">
+    <div class="left-side">
+      <h1>Hello, {{ title }}</h1>
+      <p>Congratulations! Your app is running. 🎉</p>
+
+      <br />
+      <label for="title">Title:</label>
+      <input id="title" type="text" [(ngModel)]="title" />
+
+      <br />
+      <p>Expanded title is {{ expandedTitle }}</p>
+
+      <br />
+
+      <app-fancy-number caption="First" [(value)]="first"></app-fancy-number>
+
+      <app-fancy-number caption="Second" [value]="second" (valueChange)="changeSecond($event)"></app-fancy-number>
+
+      <div>Result is {{ sum }}</div>
+
+   </div>
+  </div>
+</main>
