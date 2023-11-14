@@ -1,7 +1,12 @@
 export {};
 
-function combine(mapper: (n:number) => string, operation: (first: string, second: string) => string){
-    // TODO: implement this function
+function combine<T, U>(mapper: (n:T) => U, operation: (first: U, second: U) => U){
+    return function (first: T, second: T): U {
+        const firstString = mapper(first);
+        const secondString = mapper(second);
+        const result = operation(firstString, secondString);
+        return result;
+    }
 };
 
 function toWords(n: number){

@@ -1,0 +1,14 @@
+<div class="author-row">
+    <div class="author-data">{{author.id}}</div>
+    <div class="author-data">{{author.name}}</div>
+    <div class="author-data">{{author.birthDate}}</div>
+    <div class="author-data">
+        <app-checkmark [checked]="!!author.deathDate"></app-checkmark>
+    </div>
+    <div class="author-data">Age</div>
+    <div class="author-data">{{author.nationality}}</div>
+    <div class="author-data">
+        <app-bibliography [books]="author.books"></app-bibliography>
+    </div>
+    <div class="author-data">{{getYearsActive(author)}}</div>
+  </div>

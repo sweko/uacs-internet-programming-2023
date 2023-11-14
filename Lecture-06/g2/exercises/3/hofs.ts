@@ -8,5 +8,12 @@ const uascSelect = (array: number[], selector: (a: number) => number) => {
 }
 
 const uacsWhere = (array: number[], predicate: (a: number) => boolean) => {
-    // todo: implement
+    const result: number[] = [];
+    for (const item of array) {
+        const bool = predicate(item);
+        if (bool) {
+            result.push(item);
+        }
+    }
+    return result;
 }
