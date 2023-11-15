@@ -4,6 +4,21 @@
       <h1>Hello, {{ title }}</h1>
       <h2>{{ subtitle }}</h2>
       <p>Congratulations! Your app is running. 🎉</p>
-   </div>
+      <p>{{ expandedTitle }}</p>
+
+      <div>
+        <div>
+          <label for="zzw">Second: </label>
+          <input id="zzw" type="number" [(ngModel)]="second"/>
+        </div>
+
+        <div>First is {{ first }} and second is {{ second }}</div>
+
+        <app-fancy-number name="First" [(value)]="first"></app-fancy-number>
+        <app-fancy-number name="Second" [value]="second" (valueChange)="updateSecondNumber($event)"></app-fancy-number>
+
+        <div>Result: {{ sum() }}</div>
+      </div>
+    </div>
   </div>
 </main>

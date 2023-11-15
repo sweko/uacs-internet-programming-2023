@@ -1,0 +1,27 @@
+<h1>Information About Authors</h1>
+
+<app-author-filter [nationalities]="getNationalities()" (filterChange)="applyFilter($event)"></app-author-filter>
+
+<div class="author-header-table">
+  <div class="author-header">ID <span id="sort-id">sort</span></div>
+  <div class="author-header">Name <span id="sort-name">sort</span></div>
+  <div class="author-header">Birth Date</div>
+  <div class="author-header">Alive</div>
+  <div class="author-header">Age</div>
+  <div class="author-header">Nationality</div>
+  <div class="author-header">Bibliography</div>
+  <div class="author-header">Years active</div>
+</div>
+<div id="author-container">
+    <app-author-details *ngFor="let writer of displayedAuthors" [author]="writer"></app-author-details>
+</div>
+
+<div id="biblio-details" class="modal hidden">
+    <div id="biblio-details-content">
+        <div id="biblio-details-header">
+            <h2>Bibliography</h2>
+        </div>
+        <ul id="biblio-details-book-list">
+        </ul>
+    </div>
+</div>
