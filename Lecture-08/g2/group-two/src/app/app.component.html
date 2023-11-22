@@ -1,0 +1,51 @@
+<main class="main">
+  <div class="content">
+    <div class="left-side">
+      <h1>Hello, {{ title | uppercase }}</h1>
+      <p>Congratulations! Your app is running. 🎉</p>
+   </div>
+  </div>
+  <div [ngStyle]="{ 'font-size': fontSize + 'px', 'color': fontColor }">
+    This text dynamically adjusts its style using ngStyle.
+  </div>
+  <div [ngClass]="{ 'highlight': isHighlighted, 'underline': isUnderlined }">
+    This text dynamically adjusts its class using ngClass.
+  </div>
+
+</main>
+
+<div [ngClass]="classObject" *ngIf="!!user; else noUser">
+  This text dynamically adjusts its class using ngClass.
+</div>
+
+
+<ng-template #noUser>
+  <p>Please log in to continue.</p>
+</ng-template>
+
+<div appBright>
+  This is a first div with a custom directive.
+</div>
+
+<div appBright hlColor="lime">
+  This is a second div with a custom directive.
+</div>
+
+<div appBright hlColor="#41fdfe" hlClass="underline">
+  This is a third div with a custom directive.
+</div>
+
+
+<button (click)="toggleHighLight()">Toggle Highlight</button>
+<button (click)="toggleUnderline()">Toggle Underline</button>
+
+<hr />
+
+<label for="even-odd" class="label">Even/Odd</label>
+<input type="number" id="even-odd" class="input" [(ngModel)]="evenOddNumber" (change)="detectEvenOdd()" />
+
+<div>The number is: {{ evenOddResult }}</div>
+
+<ol>
+  <li *ngFor="let number of getOneToTen()">{{ number }}</li>
+</ol>

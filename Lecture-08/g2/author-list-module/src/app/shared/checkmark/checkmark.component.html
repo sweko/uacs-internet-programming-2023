@@ -1,0 +1,17 @@
+<ng-container *ngIf="isTextMode()">
+    <div *ngIf="checked">
+        Yes
+    </div>
+    <div *ngIf="!checked">
+        No
+    </div>
+</ng-container>
+
+<ng-container *ngIf="isGlyphMode()">
+    <div *ngIf="checked">
+        Yes (but with image)
+    </div>
+    <div *ngIf="!checked">
+        No (but with image)
+    </div>
+</ng-container>

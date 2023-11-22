@@ -1,0 +1,55 @@
+<main class="main">
+  <div class="content">
+    <div class="left-side">
+      <h1>Hello, {{ title }}</h1>
+      <p>Congratulations! Your app is running. 🎉</p>
+   </div>
+
+   <div [ngStyle]="{ 'font-size': fontSize + 'px', 'color': fontColor }">
+    This text dynamically adjusts its style using ngStyle.
+  </div>
+  
+  <div [ngClass]="{ 'highlight': isHighlighted, 'underline': isUnderlined }">
+    This text dynamically adjusts its class using ngClass.
+  </div>
+
+  <div [ngClass]="classObject">
+    This text dynamically adjusts its class using ngClass.
+  </div>
+
+
+  <button (click)="toggleHighlight()">Toggle Highlight</button>
+  <button (click)="toggleUnderline()">Toggle Underline</button>
+  </div>
+  <div>
+    <div *ngIf="!!user; else noUser">
+      <div appHighlight>This div will be highlighted 1</div>
+      <div appHighlight hlColor="#CCCCCC" hlClass="underline" >This div will be highlighted 2</div>
+      <div appHighlight hlColor="#CCCCCC">This div will be highlighted 3</div>
+      <div appHighlight hlClass="underline">This div will be highlighted 4</div>
+    </div>
+
+    <ng-template #noUser>
+      <p>Please log in to continue.</p>
+    </ng-template>
+  </div>
+</main>
+<div>
+  {{ books | myJoin:';':'and' }}
+</div>
+
+<div>
+  <label for="evenOdd">Even or odd?</label>
+  <input id="evenOdd" type="number" [(ngModel)] = "numeric" (change)="checkEvenOdd()"/>
+
+  Is Even: {{ isEven }}
+  Is Odd: {{ isOdd }}
+</div>
+
+<ul>
+  <li *ngFor="let num of oneToTen; let i = index">
+    {{ i + 1 }} - {{ num }}
+  </li>
+</ul>
+
+{{ magic }}

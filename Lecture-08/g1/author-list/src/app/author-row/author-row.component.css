@@ -1,0 +1,13 @@
+
+.author-row {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr 1fr 1fr 1fr 3fr 1fr;
+    border: 1px solid #8f8e8e;
+  }
+
+  .author-data {
+    text-align: left;
+    padding: 5px;
+    border: 1px solid #868686;
+  }
+
