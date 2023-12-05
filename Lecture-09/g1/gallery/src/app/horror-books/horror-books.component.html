@@ -1,0 +1,24 @@
+<p>horror-books works!</p>
+
+<form [formGroup]="bookForm" (ngSubmit)="submitForm()">
+  <div>
+    <label for="book-title">Title:</label>
+    <input type="text" id="book-title" formControlName="title" />
+  </div>
+  <div>
+    <label for="book-author">Author:</label>
+    <input type="text" id="book-author" formControlName="author" />
+  </div>
+  <div>
+    <label for="book-year">Email:</label>
+    <input type="number" id="book-year" formControlName="year" />
+  </div>
+  <!-- Other form controls... -->
+
+  <button type="submit" [disabled]="bookForm.invalid">Submit</button>
+</form>
+
+{{ book | json}}
+
+{{ bookForm.value | json}}
+
