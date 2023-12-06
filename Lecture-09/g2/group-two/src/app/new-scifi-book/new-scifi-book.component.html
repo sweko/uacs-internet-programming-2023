@@ -1,0 +1,30 @@
+<form #scifiForm="ngForm" (ngSubmit)="onSubmit()">
+    <div>
+        <label for="title">Title: </label>
+        <input type="text" id="title" name="title" [(ngModel)]="scifiBook.title" required #title="ngModel">
+
+        <div *ngIf="title.invalid && (title.dirty || title.touched)" class="error-message">
+            <div *ngIf="getError(title, 'required')">Title is required.</div>
+        </div>
+    </div>
+    <div>
+        <label for="author">Author: </label>
+        <input type="text" id="author" name="author" [(ngModel)]="scifiBook.author" required #writer="ngModel">
+        <div *ngIf="writer.invalid && (writer.dirty || writer.touched)" class="error-message">
+            <div *ngIf="getError(writer, 'required')">Author is required.</div>
+        </div>
+
+    </div>
+    <div>
+        <label for="year">Year: </label>
+        <input type="number" id="year" name="year" [(ngModel)]="scifiBook.year" required min="1900" [max]="currentYear" #year="ngModel">
+        <div *ngIf="year.invalid && (year.dirty || year.touched)" class="error-message">
+            <div *ngIf="getError(year, 'max')">The year is too big.</div>
+            <div *ngIf="getError(year, 'min')">The year is too small.</div>
+        </div>
+    </div>
+
+    <button type="submit" [disabled]="scifiForm.invalid">Submit</button>
+</form>
+
+{{ scifiBook | json }}
