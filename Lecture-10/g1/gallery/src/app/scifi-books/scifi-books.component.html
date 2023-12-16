@@ -1,0 +1,43 @@
+<p>scifi-books works!</p>
+
+<form #myForm="ngForm" (ngSubmit)="submit()">
+  <div>
+    <label for="book-title">Book Title</label>
+    <input
+      type="text"
+      id="book-title"
+      name="book-title"
+      placeholder="Book Title"
+      [(ngModel)]="book.title"
+      required
+      #title="ngModel"
+    />
+    <div *ngIf="title.invalid && (title.dirty || title.touched)" class="error-message">
+        <div *ngIf="getRequired(title)">Title is required.</div>
+    </div>
+  </div>
+  <div>
+    <label for="book-author">Book Author</label>
+    <input
+      type="text"
+      id="book-author"
+      name="book-author"
+      placeholder="Book Author"
+      [(ngModel)]="book.author"
+    />
+  </div>
+  <div>
+    <label for="book-year">Year</label>
+    <input
+      type="number"
+      id="book-year"
+      name="book-year"
+      placeholder="Year"
+      [(ngModel)]="book.year"
+    />
+  </div>
+
+  <button [disabled]="!myForm.valid" type="submit">Add Book</button>
+</form>
+
+{{ book | json }}

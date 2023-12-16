@@ -1,0 +1,14 @@
+<div id="filter" class="filter">
+    <label for="name-filter">Name: </label>
+    <input type="text" id="name-filter" />
+
+    <app-select-filter title="Nationality" [options]="nationalities"></app-select-filter>
+    
+    <app-select-filter title="Alive" [options]="getYesNoOptions()" ></app-select-filter>
+  
+    <label for="year-filter">Active in year: </label>
+    <input type="number" id="year-filter" />
+  
+    <button>Apply Filter</button>
+  </div>
+  

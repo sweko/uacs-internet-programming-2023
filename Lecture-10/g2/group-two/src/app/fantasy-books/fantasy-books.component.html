@@ -1,0 +1,9 @@
+<p>fantasy-books works!</p>
+
+<ul>
+    <li *ngFor="let book of books">
+      <a [routerLink]="['/', 'books', 'scifi', book.id]">{{ book.title }}</a>
+    </li>
+  </ul>
+  
+  <button routerLink="/books/fantasy/new">Add New Book</button>

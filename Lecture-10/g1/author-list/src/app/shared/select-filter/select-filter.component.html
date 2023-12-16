@@ -1,0 +1,5 @@
+<label for="select-filter">{{title}}: </label>
+<select id="select-filter">
+    <option value="all" selected>All</option>
+    <option *ngFor="let option of options" value="{{option}}">{{option}}</option>
+</select>

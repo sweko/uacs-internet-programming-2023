@@ -1,0 +1,7 @@
+<ul>
+    <li *ngFor="let book of books">
+        <span [ngClass]="getClass(book)">
+            {{book.title}} ({{book.year}})
+        </span>
+    </li>
+</ul>

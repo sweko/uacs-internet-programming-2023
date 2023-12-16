@@ -1,0 +1,23 @@
+.novel {
+    color: black;
+}
+
+.novella {
+    color: gray;
+}
+
+.graphic-novel {
+    color: red;
+}
+
+.collection {
+    color: blue;
+}
+
+.non-fiction {
+    color: green;
+}
+
+ul {
+    list-style-type: none;
+}
