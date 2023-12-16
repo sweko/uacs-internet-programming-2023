@@ -1,0 +1,14 @@
+.number {
+    border: solid 2px blue;
+    border-radius: 10%;
+    font-size: xx-large;
+    width: 100px;
+    text-align: right;
+    background-color: whitesmoke;
+    padding-right: 10px;
+    color: #000;
+}
+
+.container {
+    display: inline-block;
+}
