@@ -1,5 +1,5 @@
 import { Component, Input, OnInit } from '@angular/core';
-import { InterestedComponent, StatexService } from '../statex.service';
+import { InterestedComponent, StatexService } from '../state/statex.service';
 
 @Component({
   selector: 'show-number',

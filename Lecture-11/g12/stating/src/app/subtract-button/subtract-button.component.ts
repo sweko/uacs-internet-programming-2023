@@ -1,5 +1,6 @@
-import { Component, EventEmitter, Input, Output } from '@angular/core';
-import { StatexService } from '../statex.service';
+import { Component } from '@angular/core';
+import { StatexService } from '../state/statex.service';
+import { decrementAction } from '../state/actions';
 
 @Component({
   selector: 'subtract-button',
@@ -7,18 +8,12 @@ import { StatexService } from '../statex.service';
   styleUrl: './subtract-button.component.css'
 })
 export class SubtractButtonComponent {
-  @Input() value: number = 0;
-  @Output() clicked: EventEmitter<number> = new EventEmitter()
 
   constructor(private stateService: StatexService) {}
 
   subtract() {
-    this.clicked.emit(this.value - 1);
-    const state = this.stateService.getState();
-    const decrementedValue = state.value - 1;
-    this.stateService.setState({
-      value: decrementedValue
-    });
+    const action = decrementAction();
+    this.stateService.dispatch(action);
   }
 
 }
