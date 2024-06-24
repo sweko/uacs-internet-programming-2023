@@ -7,4 +7,15 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'prime-example';
+
+  ime: string = '';
+  prezime: string = '';
+
+  setFirstName(name: string) {
+    this.ime = name;
+  }
+
+  setLastName(name: string) {
+    this.prezime = name;
+  }
 }

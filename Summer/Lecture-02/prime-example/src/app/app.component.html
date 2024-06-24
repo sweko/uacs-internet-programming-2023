@@ -15,4 +15,11 @@
 <app-first></app-first>
 
 
+<hr />
+
+<app-enter-name (valueChanged)="setFirstName($event)"></app-enter-name>
+<app-enter-name (valueChanged)="setLastName($event)" label="Enter your lastname"></app-enter-name>
+
+<app-second [firstName]="ime" [lastName]="prezime"></app-second>
+
 <router-outlet />
