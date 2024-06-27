@@ -1,0 +1,30 @@
+
+<table>
+    <thead>
+        <tr>
+            <th (click)="sortById()">ID</th>
+            <th (click)="sortByTitle()">Title</th>
+            <th>Release Date</th>
+            <th>Director</th>
+            <th (click)="sortByGenre()">Genre</th>
+            <th>Oscars</th>
+            <th>Rating</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let movie of movies">
+            <td>{{ movie.id }}</td>
+            <td>{{ movie.title }}</td>
+            <td>{{ movie.year }}</td>
+            <td>{{ movie.director }}</td>
+            <td>{{ showGenres(movie.genre) }}</td>
+            <td>{{ showOscars(movie.oscars) }}</td>
+            <td>{{ movie.rating }}</td>
+            <td>
+                <button (click)="editMovie(movie.id)">Edit</button>
+                <button (click)="deleteMovie(movie.id)">Delete</button>
+            </td>
+        </tr>
+    </tbody>
+</table>

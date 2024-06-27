@@ -1,0 +1,2894 @@
+{
+  "movies": [
+    {
+      "id": 3,
+      "title": "The Godfather",
+      "year": 1972,
+      "director": "Francis Ford Coppola",
+      "genre": [
+        "Drama",
+        "Crime"
+      ],
+      "plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "cast": [
+        {
+          "actor": "Marlon Brando",
+          "character": "Vito Corleone"
+        },
+        {
+          "actor": "Al Pacino",
+          "character": "Michael Corleone"
+        },
+        {
+          "actor": "James Caan",
+          "character": "Sonny Corleone"
+        },
+        {
+          "actor": "Robert Duvall",
+          "character": "Tom Hagen"
+        }
+      ],
+      "oscars": {
+        "bestPicture": "The Godfather",
+        "bestDirector": "Francis Ford Coppola",
+        "bestActor": "Marlon Brando",
+        "bestAdaptedScreenplay": "Mario Puzo, Francis Ford Coppola"
+      },
+      "rating": 9.2
+    },
+    {
+      "id": 33,
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "director": "Frank Darabont",
+      "genre": [
+        "Drama"
+      ],
+      "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "cast": [
+        {
+          "actor": "Tim Robbins",
+          "character": "Andy Dufresne"
+        },
+        {
+          "actor": "Morgan Freeman",
+          "character": "Ellis 'Red' Redding"
+        },
+        {
+          "actor": "Bob Gunton",
+          "character": "Warden Norton"
+        },
+        {
+          "actor": "William Sadler",
+          "character": "Heywood"
+        }
+      ],
+      "oscars": {
+        "bestActor": "Tim Robbins",
+        "bestSupportingActor": "Morgan Freeman",
+        "bestAdaptedScreenplay": "Frank Darabont"
+      },
+      "rating": 9.3
+    },
+    {
+      "id": 54,
+      "title": "Schindler's List",
+      "year": 1993,
+      "director": "Steven Spielberg",
+      "genre": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "plot": "In German-occupied Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+      "cast": [
+        {
+          "actor": "Liam Neeson",
+          "character": "Oskar Schindler"
+        },
+        {
+          "actor": "Ralph Fiennes",
+          "character": "Amon Goeth"
+        },
+        {
+          "actor": "Ben Kingsley",
+          "character": "Itzhak Stern"
+        },
+        {
+          "actor": "Embeth Davidtz",
+          "character": "Helen Hirsch"
+        }
+      ],
+      "oscars": {
+        "bestPicture": "Schindler's List",
+        "bestDirector": "Steven Spielberg",
+        "bestActor": "Liam Neeson",
+        "bestAdaptedScreenplay": "Steven Zaillian"
+      },
+      "rating": 8.9
+    },
+    {
+      "id": 39,
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "director": "Quentin Tarantino",
+      "genre": [
+        "Crime",
+        "Drama"
+      ],
+      "plot": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "cast": [
+        {
+          "actor": "John Travolta",
+          "character": "Vincent Vega"
+        },
+        {
+          "actor": "Samuel L. Jackson",
+          "character": "Jules Winnfield"
+        },
+        {
+          "actor": "Uma Thurman",
+          "character": "Mia Wallace"
+        },
+        {
+          "actor": "Bruce Willis",
+          "character": "Butch Coolidge"
+        },
+        {
+          "actor": "Ving Rhames",
+          "character": "Marsellus Wallace"
+        },
+        {
+          "actor": "Harvey Keitel",
+          "character": "The Wolf"
+        },
+        {
+          "actor": "Tim Roth",
+          "character": "Pumpkin"
+        },
+        {
+          "actor": "Amanda Plummer",
+          "character": "Honey Bunny"
+        }
+      ],
+      "oscars": {
+        "bestOriginalScreenplay": "Quentin Tarantino"
+      },
+      "rating": 8.9
+    },
+    {
+      "id": 16,
+      "title": "The Dark Knight",
+      "year": 2008,
+      "director": "Christopher Nolan",
+      "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "plot": "When the menace known as The Joker emerges, Batman must confront one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "cast": [
+        {
+          "actor": "Christian Bale",
+          "character": "Bruce Wayne / Batman"
+        },
+        {
+          "actor": "Heath Ledger",
+          "character": "The Joker"
+        },
+        {
+          "actor": "Aaron Eckhart",
+          "character": "Harvey Dent / Two-Face"
+        },
+        {
+          "actor": "Michael Caine",
+          "character": "Alfred"
+        }
+      ],
+      "oscars": {
+        "bestSupportingActor": "Heath Ledger",
+        "bestSoundEditing": "Richard King"
+      },
+      "rating": 9
+    },
+    {
+      "id": 9,
+      "title": "Fargo",
+      "year": 1996,
+      "director": "Joel Coen",
+      "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "plot": "Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.",
+      "cast": [
+        {
+          "actor": "Frances McDormand",
+          "character": "Marge Gunderson"
+        },
+        {
+          "actor": "William H. Macy",
+          "character": "Jerry Lundegaard"
+        },
+        {
+          "actor": "Steve Buscemi",
+          "character": "Carl Showalter"
+        },
+        {
+          "actor": "Peter Stormare",
+          "character": "Gaear Grimsrud"
+        },
+        {
+          "actor": "Harve Presnell",
+          "character": "Wade Gustafson"
+        },
+        {
+          "actor": "Kristin Rudrüd",
+          "character": "Jean Lundegaard"
+        },
+        {
+          "actor": "Tony Denman",
+          "character": "Scotty Lundegaard"
+        },
+        {
+          "actor": "Gary Houston",
+          "character": "Irate Customer"
+        },
+        {
+          "actor": "Sally Wingert",
+          "character": "Cashier"
+        },
+        {
+          "actor": "Kurt Schweickhardt",
+          "character": "Car Salesman"
+        }
+      ],
+      "oscars": {
+        "bestActress": "Frances McDormand",
+        "bestOriginalScreenplay": "Joel Coen, Ethan Coen"
+      },
+      "rating": 8.1
+    },
+    {
+      "id": 43,
+      "title": "Taxi Driver",
+      "year": 1976,
+      "director": "Martin Scorsese",
+      "genre": [
+        "Crime",
+        "Drama"
+      ],
+      "plot": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action.",
+      "cast": [
+        {
+          "actor": "Robert De Niro",
+          "character": "Travis Bickle"
+        },
+        {
+          "actor": "Jodie Foster",
+          "character": "Iris"
+        },
+        {
+          "actor": "Cybill Shepherd",
+          "character": "Betsy"
+        },
+        {
+          "actor": "Harvey Keitel",
+          "character": "Sport"
+        }
+      ],
+      "oscars": {
+        "bestActor": "Robert De Niro"
+      },
+      "rating": 8.3
+    },
+    {
+      "id": 11,
+      "title": "The Good, the Bad and the Ugly",
+      "year": 1966,
+      "director": "Sergio Leone",
+      "genre": [
+        "Western"
+      ],
+      "plot": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+      "cast": [
+        {
+          "actor": "Clint Eastwood",
+          "character": "Blondie"
+        },
+        {
+          "actor": "Lee Van Cleef",
+          "character": "Angel Eyes"
+        },
+        {
+          "actor": "Eli Wallach",
+          "character": "Tuco"
+        }
+      ],
+      "oscars": {
+        "bestActor": "Clint Eastwood",
+        "bestOriginalScore": "Ennio Morricone"
+      },
+      "rating": 8.8
+    },
+    {
+      "id": 7,
+      "title": "Reservoir Dogs",
+      "year": 1992,
+      "director": "Quentin Tarantino",
+      "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "plot": "After a simple jewelry heist goes terribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+      "cast": [
+        {
+          "actor": "Harvey Keitel",
+          "character": "Mr. White"
+        },
+        {
+          "actor": "Tim Roth",
+          "character": "Mr. Orange"
+        },
+        {
+          "actor": "Michael Madsen",
+          "character": "Mr. Blonde"
+        },
+        {
+          "actor": "Chris Penn",
+          "character": "Nice Guy Eddie"
+        },
+        {
+          "actor": "Steve Buscemi",
+          "character": "Mr. Pink"
+        },
+        {
+          "actor": "Lawrence Tierney",
+          "character": "Joe Cabot"
+        },
+        {
+          "actor": "Edward Bunker",
+          "character": "Mr. Blue"
+        },
+        {
+          "actor": "Quentin Tarantino",
+          "character": "Mr. Brown"
+        },
+        {
+          "actor": "Randy Brooks",
+          "character": "Holdaway"
+        },
+        {
+          "actor": "Kirk Baltz",
+          "character": "Marvin Nash"
+        }
+      ],
+      "oscars": {
+        "bestSupportingActor": "Chris Penn"
+      },
+      "rating": 8.3
+    },
+    {
+      "id": 52,
+      "title": "The Usual Suspects",
+      "year": 1995,
+      "director": "Bryan Singer",
+      "genre": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ],
+      "plot": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, beginning with the five criminals who met in a police lineup.",
+      "cast": [
+        {
+          "actor": "Kevin Spacey",
+          "character": "Verbal Kint"
+        },
+        {
+          "actor": "Gabriel Byrne",
+          "character": "Dean Keaton"
+        },
+        {
+          "actor": "Chazz Palminteri",
+          "character": "Dave Kujan"
+        },
+        {
+          "actor": "Stephen Baldwin",
+          "character": "Michael McManus"
+        },
+        {
+          "actor": "Pete Postlethwaite",
+          "character": "Kobayashi"
+        },
+        {
+          "actor": "Benicio Del Toro",
+          "character": "Fred Fenster"
+        },
+        {
+          "actor": "Kevin Pollak",
+          "character": "Todd Hockney"
+        },
+        {
+          "actor": "Giancarlo Esposito",
+          "character": "Jack Baer"
+        }
+      ],
+      "oscars": {
+        "bestSupportingActor": "Kevin Spacey",
+        "bestOriginalScreenplay": "Christopher McQuarrie"
+      },
+      "rating": 8.5
+    },
+    {
+      "id": 27,
+      "title": "A Clockwork Orange",
+      "year": 1971,
+      "director": "Stanley Kubrick",
+      "genre": [
+        "Crime",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "plot": "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.",
+      "cast": [
+        {
+          "actor": "Malcolm McDowell",
+          "character": "Alex"
+        },
+        {
+          "actor": "Patrick Magee",
+          "character": "Mr. Alexander"
+        },
+        {
+          "actor": "Michael Bates",
+          "character": "Chief Guard"
+        },
+        {
+          "actor": "Warren Clarke",
+          "character": "Dim"
+        },
+        {
+          "actor": "John Clive",
+          "character": "Stage Actor"
+        },
+        {
+          "actor": "Adrienne Corri",
+          "character": "Mrs. Alexander"
+        },
+        {
+          "actor": "Carl Duering",
+          "character": "Dr. Brodsky"
+        }
+      ],
+      "oscars": {
+        "bestDirector": "Stanley Kubrick"
+      },
+      "rating": 8.3
+    },
+    {
+      "id": 21,
+      "title": "Seven",
+      "year": 1995,
+      "director": "David Fincher",
+      "genre": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "plot": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+      "cast": [
+        {
+          "actor": "Morgan Freeman",
+          "character": "Somerset"
+        },
+        {
+          "actor": "Brad Pitt",
+          "character": "Mills"
+        },
+        {
+          "actor": "Kevin Spacey",
+          "character": "John Doe"
+        },
+        {
+          "actor": "Gwyneth Paltrow",
+          "character": "Tracy"
+        }
+      ],
+      "oscars": {
+        "bestFilmEditing": "Richard Francis-Bruce"
+      },
+      "rating": 8.6
+    },
+    {
+      "id": 30,
+      "title": "The Princess Bride",
+      "year": 1987,
+      "director": "Rob Reiner",
+      "genre": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "plot": "While home sick in bed, a young boy's grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles, enemies, and allies in his quest to be reunited with his true love.",
+      "cast": [
+        {
+          "actor": "Cary Elwes",
+          "character": "Westley"
+        },
+        {
+          "actor": "Mandy Patinkin",
+          "character": "Inigo Montoya"
+        },
+        {
+          "actor": "Robin Wright",
+          "character": "Buttercup"
+        },
+        {
+          "actor": "Chris Sarandon",
+          "character": "Prince Humperdinck"
+        },
+        {
+          "actor": "Christopher Guest",
+          "character": "Count Rugen"
+        },
+        {
+          "actor": "Wallace Shawn",
+          "character": "Vizzini"
+        },
+        {
+          "actor": "André the Giant",
+          "character": "Fezzik"
+        },
+        {
+          "actor": "Fred Savage",
+          "character": "The Grandson"
+        }
+      ],
+      "oscars": {
+        "bestOriginalSong": "Mark Knopfler"
+      },
+      "rating": 8.1
+    },
+    {
+      "id": 13,
+      "title": "The Wizard of Oz",
+      "year": 1939,
+      "director": "Victor Fleming",
+      "genre": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "plot": "Dorothy Gale is swept away from her home in Kansas to the magical Land of Oz. She embarks on a journey to the Emerald City to meet the Wizard and find her way back home.",
+      "cast": [
+        {
+          "actor": "Judy Garland",
+          "character": "Dorothy"
+        },
+        {
+          "actor": "Frank Morgan",
+          "character": "The Wizard"
+        },
+        {
+          "actor": "Ray Bolger",
+          "character": "Scarecrow"
+        },
+        {
+          "actor": "Bert Lahr",
+          "character": "Cowardly Lion"
+        },
+        {
+          "actor": "Jack Haley",
+          "character": "Tin Man"
+        },
+        {
+          "actor": "Billie Burke",
+          "character": "Glinda the Good Witch"
+        },
+        {
+          "actor": "Margaret Hamilton",
+          "character": "The Wicked Witch of the West"
+        },
+        {
+          "actor": "Charley Grapewin",
+          "character": "Uncle Henry"
+        },
+        {
+          "actor": "Clara Blandick",
+          "character": "Aunt Em"
+        }
+      ],
+      "oscars": {
+        "bestOriginalSong": "E.Y. Harburg, Harold Arlen (for 'Over the Rainbow')"
+      },
+      "rating": 8
+    },
+    {
+      "id": 55,
+      "title": "Amadeus",
+      "year": 1984,
+      "director": "Milos Forman",
+      "genre": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "plot": "The life, success, and troubles of Wolfgang Amadeus Mozart, as told by Antonio Salieri, the contemporary composer who was insanely jealous of Mozart's talent.",
+      "cast": [
+        {
+          "actor": "F. Murray Abraham",
+          "character": "Antonio Salieri"
+        },
+        {
+          "actor": "Tom Hulce",
+          "character": "Wolfgang Amadeus Mozart"
+        },
+        {
+          "actor": "Elizabeth Berridge",
+          "character": "Constanze Mozart"
+        },
+        {
+          "actor": "Roy Dotrice",
+          "character": "Leopold Mozart"
+        }
+      ],
+      "oscars": {
+        "bestPicture": "Amadeus",
+        "bestDirector": "Milos Forman",
+        "bestActor": "F. Murray Abraham",
+        "bestAdaptedScreenplay": "Peter Shaffer"
+      },
+      "rating": 8.3
+    },
+    {
+      "id": 19,
+      "title": "The King's Speech",
+      "year": 2010,
+      "director": "Tom Hooper",
+      "genre": [
+        "Biography",
+        "Drama"
+      ],
+      "plot": "The story of King George VI, his impromptu ascension to the throne of the British Empire, and the speech therapist who helped the unsure monarch overcome his stammer.",
+      "cast": [
+        {
+          "actor": "Colin Firth",
+          "character": "King George VI"
+        },
+        {
+          "actor": "Geoffrey Rush",
+          "character": "Lionel Logue"
+        },
+        {
+          "actor": "Helena Bonham Carter",
+          "character": "Queen Elizabeth"
+        },
+        {
+          "actor": "Derek Jacobi",
+          "character": "Archbishop Cosmo Lang"
+        }
+      ],
+      "oscars": {
+        "bestPicture": "The King's Speech",
+        "bestDirector": "Tom Hooper",
+        "bestActor": "Colin Firth",
+        "bestOriginalScreenplay": "David Seidler"
+      },
+      "rating": 8
+    },
+    {
+      "id": 22,
+      "title": "Titanic",
+      "year": 1997,
+      "director": "James Cameron",
+      "genre": [
+        "Drama",
+        "Romance"
+      ],
+      "plot": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+      "cast": [
+        {
+          "actor": "Leonardo DiCaprio",
+          "character": "Jack Dawson"
+        },
+        {
+          "actor": "Kate Winslet",
+          "character": "Rose DeWitt Bukater"
+        },
+        {
+          "actor": "Billy Zane",
+          "character": "Caledon 'Cal' Hockley"
+        },
+        {
+          "actor": "Kathy Bates",
+          "character": "Molly Brown"
+        }
+      ],
+      "oscars": {
+        "bestPicture": "Titanic",
+        "bestDirector": "James Cameron",
+        "bestOriginalSong": "My Heart Will Go On (Celine Dion)",
+        "bestOriginalDramaticScore": "James Horner",
+        "bestCinematography": "Russell Carpenter",
+        "bestFilmEditing": "Conrad Buff IV, James Cameron, Richard A. Harris",
+        "bestCostumeDesign": "Deborah Lynn Scott",
+        "bestSound": "Gary Rydstrom, Tom Johnson, Gary Summers, Mark Ulano",
+        "bestSoundEffectsEditing": "Tom Johnson, Gary Rydstrom",
+        "bestMakeup": "Tina Earnshaw, Greg Cannom, Simon Thompson",
+        "bestOriginalSongScore": "James Horner",
+        "bestVisualEffects": "Rob Legato, Mark A. Lasoff, Thomas L. Fisher, Michael Kanfer",
+        "bestSoundEditing": "Tom Bellfort, Christopher Boyes"
+      },
+      "rating": 7.8
+    },
+    {
+      "id": 34,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "director": "Robert Zemeckis",
+      "genre": [
+        "Drama",
+        "Romance"
+      ],
+      "plot": "The life of a man with a low IQ who accomplished great things in his life despite his limitations.",
+      "cast": [
+        {
+          "actor": "Tom Hanks",
+          "character": "Forrest Gump"
+        },
+        {
+          "actor": "Robin Wright",
+          "character": "Jenny Curran"
+        },
+        {
+          "actor": "Gary Sinise",
+          "character": "Lieutenant Dan Taylor"
+        },
+        {
+          "actor": "Sally Field",
+          "character": "Mrs. Gump"
+        }
+      ],
+      "oscars": {
+        "bestPicture": "Forrest Gump",
+        "bestDirector": "Robert Zemeckis",
+        "bestActor": "Tom Hanks",
+        "bestAdaptedScreenplay": "Eric Roth"
+      },
+      "rating": 8.8
+    },
+    {
+      "id": 41,
+      "title": "The Matrix",
+      "year": 1999,
+      "director": "The Wachowskis",
+      "genre": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "plot": "A computer programmer discovers that reality as he knows it is a simulation created by machines to subjugate humanity. He joins a group of rebels to fight against the machines.",
+      "cast": [
+        {
+          "actor": "Keanu Reeves",
+          "character": "Neo"
+        },
+        {
+          "actor": "Laurence Fishburne",
+          "character": "Morpheus"
+        },
+        {
+          "actor": "Carrie-Anne Moss",
+          "character": "Trinity"
+        },
+        {
+          "actor": "Hugo Weaving",
+          "character": "Agent Smith"
+        }
+      ],
+      "oscars": {
+        "bestFilmEditing": "The Matrix",
+        "bestVisualEffects": "The Matrix"
+      },
+      "rating": 8.7
+    },
+    {
+      "id": 48,
+      "title": "Gladiator",
+      "year": 2000,
+      "director": "Ridley Scott",
+      "genre": [
+        "Action",
+        "Drama"
+      ],
+      "plot": "A former Roman General seeks justice after being betrayed by a corrupt prince and forced into slavery. He rises as a gladiator to avenge his family and seek revenge.",
+      "cast": [
+        {
+          "actor": "Russell Crowe",
+          "character": "Maximus"
+        },
+        {
+          "actor": "Joaquin Phoenix",
+          "character": "Commodus"
+        },
+        {
+          "actor": "Connie Nielsen",
+          "character": "Lucilla"
+        },
+        {
+          "actor": "Oliver Reed",
+          "character": "Proximo"
+        }
+      ],
+      "oscars": {
+        "bestPicture": "Gladiator",
+        "bestDirector": "Ridley Scott",
+        "bestActor": "Russell Crowe",
+        "bestCostumeDesign": "Janty Yates",
+        "bestVisualEffects": "John Nelson, Neil Corbould, Tim Burke, Rob Harvey"
+      },
+      "rating": 8.5
+    },
+    {
+      "id": 23,
+      "title": "Goodfellas",
+      "year": 1990,
+      "director": "Martin Scorsese",
+      "genre": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "plot": "Henry Hill and his friends work their way up through the mob hierarchy, experiencing the glamorous and violent lifestyle of the New York Mafia.",
+      "cast": [
+        {
+          "actor": "Ray Liotta",
+          "character": "Henry Hill"
+        },
+        {
+          "actor": "Robert De Niro",
+          "character": "James Conway"
+        },
+        {
+          "actor": "Joe Pesci",
+          "character": "Tommy DeVito"
+        },
+        {
+          "actor": "Lorraine Bracco",
+          "character": "Karen Hill"
+        }
+      ],
+      "oscars": {
+        "bestSupportingActor": "Joe Pesci",
+        "bestAdaptedScreenplay": "Martin Scorsese, Nicholas Pileggi"
+      },
+      "rating": 8.7
+    },
+    {
+      "id": 2,
+      "title": "Shaving Private Ryan",
+      "year": 1998,
+      "director": "Steven Spielberg",
+      "genre": [
+        "Drama",
+        "War"
+      ],
+      "plot": "Following the Normandy Landings, a group of U.S. soldiers goes behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+      "cast": [
+        {
+          "actor": "Tom Hanks",
+          "character": "Captain John H. Miller"
+        },
+        {
+          "actor": "Matt Damon",
+          "character": "Private James Francis Ryan"
+        },
+        {
+          "actor": "Tom Sizemore",
+          "character": "Sergeant Horvath"
+        },
+        {
+          "actor": "Edward Burns",
+          "character": "Private Richard Reiben"
+        },
+        {
+          "actor": "Barry Pepper",
+          "character": "Private Daniel Jackson"
+        },
+        {
+          "actor": "Adam Goldberg",
+          "character": "Private Stanley Mellish"
+        },
+        {
+          "actor": "Vin Diesel",
+          "character": "Private Adrian Caparzo"
+        },
+        {
+          "actor": "Giovanni Ribisi",
+          "character": "T-4 Medic Irwin Wade"
+        },
+        {
+          "actor": "Jeremy Davies",
+          "character": "Corporal Timothy E. Upham"
+        }
+      ],
+      "oscars": {
+        "bestDirector": "Steven Spielberg",
+        "bestFilmEditing": "Saving Private Ryan",
+        "bestSound": "Gary Rydstrom, Gary Summers, Ronald Judkins"
+      },
+      "rating": 8.6
+    },
+    {
+      "id": 17,
+      "title": "Fight Club",
+      "year": 1999,
+      "director": "David Fincher",
+      "genre": [
+        "Drama"
+      ],
+      "plot": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
+      "cast": [
+        {
+          "actor": "Edward Norton",
+          "character": "The Narrator"
+        },
+        {
+          "actor": "Brad Pitt",
+          "character": "Tyler Durden"
+        },
+        {
+          "actor": "Helena Bonham Carter",
+          "character": "Marla Singer"
+        },
+        {
+          "actor": "Meat Loaf",
+          "character": "Robert 'Bob' Paulson"
+        }
+      ],
+      "oscars": {
+        "bestSoundEditing": "Fight Club"
+      },
+      "rating": 8.8
+    },
+    {
+      "id": 35,
+      "title": "Inception",
+      "year": 2010,
+      "director": "Christopher Nolan",
+      "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "plot": "A thief who enters the subconscious of others to steal their secrets is offered a chance to redeem himself with a final job that involves planting an idea into someone's mind.",
+      "cast": [
+        {
+          "actor": "Leonardo DiCaprio",
+          "character": "Dom Cobb"
+        },
+        {
+          "actor": "Joseph Gordon-Levitt",
+          "character": "Arthur"
+        },
+        {
+          "actor": "Elliot Page",
+          "character": "Ariadne"
+        },
+        {
+          "actor": "Tom Hardy",
+          "character": "Eames"
+        }
+      ],
+      "oscars": {
+        "bestCinematography": "Wally Pfister",
+        "bestVisualEffects": "Paul Franklin, Chris Corbould, Andrew Lockley, Peter Bebb"
+      },
+      "rating": 8.8
+    },
+    {
+      "id": 32,
+      "title": "The Lion King",
+      "year": 1994,
+      "director": "Roger Allers, Rob Minkoff",
+      "genre": [
+        "Animation",
+        "Adventure",
+        "Drama"
+      ],
+      "plot": "Lion prince Simba grows up in the African savanna after his uncle Scar kills his father Mufasa. Simba returns as an adult to take back his homeland from Scar with the help of his friends.",
+      "cast": [
+        {
+          "actor": "Matthew Broderick",
+          "character": "Simba (voice)"
+        },
+        {
+          "actor": "Jeremy Irons",
+          "character": "Scar (voice)"
+        },
+        {
+          "actor": "James Earl Jones",
+          "character": "Mufasa (voice)"
+        },
+        {
+          "actor": "Moira Kelly",
+          "character": "Nala (voice)"
+        }
+      ],
+      "oscars": {
+        "bestOriginalScore": "Hans Zimmer",
+        "bestOriginalSong": "Can You Feel the Love Tonight (Elton John, Tim Rice)"
+      },
+      "rating": 8.5
+    },
+    {
+      "id": 4,
+      "title": "The Empire Strikes Back",
+      "year": 1980,
+      "director": "Irvin Kershner",
+      "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "plot": "After the rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda while his friends are pursued across the galaxy by Darth Vader.",
+      "cast": [
+        {
+          "actor": "Mark Hamill",
+          "character": "Luke Skywalker"
+        },
+        {
+          "actor": "Harrison Ford",
+          "character": "Han Solo"
+        },
+        {
+          "actor": "Carrie Fisher",
+          "character": "Princess Leia"
+        },
+        {
+          "actor": "Billy Dee Williams",
+          "character": "Lando Calrissian"
+        },
+        {
+          "actor": "Anthony Daniels",
+          "character": "C-3PO"
+        },
+        {
+          "actor": "Kenny Baker",
+          "character": "R2-D2"
+        },
+        {
+          "actor": "David Prowse",
+          "character": "Darth Vader"
+        },
+        {
+          "actor": "Frank Oz",
+          "character": "Yoda (voice)"
+        },
+        {
+          "actor": "Alec Guinness",
+          "character": "Obi-Wan Kenobi"
+        }
+      ],
+      "oscars": {
+        "bestSound": "Bill Varney, Steve Maslow, Gregg Landaker, Peter Sutton",
+        "bestArtDirection": "Norman Reynolds, Leslie Dilley, Harry Lange",
+        "bestOriginalScore": "John Williams",
+        "bestVisualEffects": "Brian Johnson, Richard Edlund, Dennis Muren, Bruce Nicholson"
+      },
+      "rating": 8.7
+    },
+    {
+      "id": 44,
+      "title": "Jurassic Park",
+      "year": 1993,
+      "director": "Steven Spielberg",
+      "genre": [
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "plot": "During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.",
+      "cast": [
+        {
+          "actor": "Sam Neill",
+          "character": "Dr. Alan Grant"
+        },
+        {
+          "actor": "Laura Dern",
+          "character": "Dr. Ellie Sattler"
+        },
+        {
+          "actor": "Jeff Goldblum",
+          "character": "Dr. Ian Malcolm"
+        },
+        {
+          "actor": "Richard Attenborough",
+          "character": "John Hammond"
+        }
+      ],
+      "oscars": {
+        "bestVisualEffects": "Dennis Muren, Stan Winston, Phil Tippett, Michael Lantieri",
+        "bestSound": "Gary Summers, Gary Rydstrom, Shawn Murphy, Ron Judkins",
+        "bestSoundEditing": "Gary Rydstrom, Richard Hymns"
+      },
+      "rating": 8.1
+    },
+    {
+      "id": 10,
+      "title": "Braveheart",
+      "year": 1995,
+      "director": "Mel Gibson",
+      "genre": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "plot": "When his secret bride is executed for assaulting an English soldier who tried to rape her, William Wallace begins a revolt against King Edward I of England.",
+      "cast": [
+        {
+          "actor": "Mel Gibson",
+          "character": "William Wallace"
+        },
+        {
+          "actor": "Sophie Marceau",
+          "character": "Princess Isabelle"
+        },
+        {
+          "actor": "Patrick McGoohan",
+          "character": "King Edward I"
+        },
+        {
+          "actor": "Catherine McCormack",
+          "character": "Murron"
+        }
+      ],
+      "oscars": {
+        "bestPicture": "Braveheart",
+        "bestDirector": "Mel Gibson",
+        "bestCinematography": "John Toll",
+        "bestSoundEffectsEditing": "Lon Bender, Per Hallberg"
+      },
+      "rating": 8.3
+    },
+    {
+      "id": 14,
+      "title": "E.T. the Extra-Terrestrial",
+      "year": 1982,
+      "director": "Steven Spielberg",
+      "genre": [
+        "Family",
+        "Sci-Fi"
+      ],
+      "plot": "A troubled child summons the courage to help a friendly alien escape Earth and return to his home world.",
+      "cast": [
+        {
+          "actor": "Henry Thomas",
+          "character": "Elliott"
+        },
+        {
+          "actor": "Drew Barrymore",
+          "character": "Gertie"
+        },
+        {
+          "actor": "Dee Wallace",
+          "character": "Mary"
+        },
+        {
+          "actor": "Peter Coyote",
+          "character": "Keys"
+        }
+      ],
+      "oscars": {
+        "bestSound": "Robert Knudson, Robert Glass",
+        "bestVisualEffects": "Carlo Rambaldi, Dennis Muren, Kenneth F. Smith",
+        "bestOriginalScore": "John Williams"
+      },
+      "rating": 7.8
+    },
+    {
+      "id": 20,
+      "title": "The Shining",
+      "year": 1980,
+      "director": "Stanley Kubrick",
+      "genre": [
+        "Drama",
+        "Horror"
+      ],
+      "plot": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+      "cast": [
+        {
+          "actor": "Jack Nicholson",
+          "character": "Jack Torrance"
+        },
+        {
+          "actor": "Shelley Duvall",
+          "character": "Wendy Torrance"
+        },
+        {
+          "actor": "Danny Lloyd",
+          "character": "Danny Torrance"
+        }
+      ],
+      "oscars": {
+        "bestPicture": "The Shining",
+        "bestDirector": "Stanley Kubrick",
+        "bestActor": "Jack Nicholson",
+        "bestSupportingActress": "Shelley Duvall",
+        "bestOriginalScore": "Wendy Carlos, Rachel Elkind"
+      },
+      "rating": 8.4
+    },
+    {
+      "id": 51,
+      "title": "12 Angry Men",
+      "year": 1957,
+      "director": "Sidney Lumet",
+      "genre": [
+        "Crime",
+        "Drama"
+      ],
+      "plot": "A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.",
+      "cast": [
+        {
+          "actor": "Henry Fonda",
+          "character": "Juror 8"
+        },
+        {
+          "actor": "Lee J. Cobb",
+          "character": "Juror 3"
+        },
+        {
+          "actor": "Martin Balsam",
+          "character": "Juror 1"
+        },
+        {
+          "actor": "E.G. Marshall",
+          "character": "Juror 4"
+        },
+        {
+          "actor": "Jack Klugman",
+          "character": "Juror 5"
+        },
+        {
+          "actor": "Edward Binns",
+          "character": "Juror 6"
+        },
+        {
+          "actor": "Jack Warden",
+          "character": "Juror 7"
+        },
+        {
+          "actor": "Joseph Sweeney",
+          "character": "Juror 9"
+        },
+        {
+          "actor": "Ed Begley",
+          "character": "Juror 10"
+        },
+        {
+          "actor": "George Voskovec",
+          "character": "Juror 11"
+        },
+        {
+          "actor": "Robert Webber",
+          "character": "Juror 12"
+        },
+        {
+          "actor": "Rudy Bond",
+          "character": "Judge"
+        }
+      ],
+      "oscars": {
+        "bestDirector": "Sidney Lumet"
+      },
+      "rating": 9
+    },
+    {
+      "id": 50,
+      "title": "Raiders of the Lost Ark",
+      "year": 1981,
+      "director": "Steven Spielberg",
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "plot": "Archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis.",
+      "cast": [
+        {
+          "actor": "Harrison Ford",
+          "character": "Indiana Jones"
+        },
+        {
+          "actor": "Karen Allen",
+          "character": "Marion Ravenwood"
+        },
+        {
+          "actor": "Paul Freeman",
+          "character": "Rene Belloq"
+        },
+        {
+          "actor": "John Rhys-Davies",
+          "character": "Sallah"
+        }
+      ],
+      "oscars": {
+        "bestArtDirection": "Norman Reynolds, Leslie Dilley, Michael Ford",
+        "bestFilmEditing": "Michael Kahn",
+        "bestVisualEffects": "Richard Edlund, Kit West, Bruce Nicholson, Joe Johnston"
+      },
+      "rating": 8.4
+    },
+    {
+      "id": 24,
+      "title": "Jaws",
+      "year": 1975,
+      "director": "Steven Spielberg",
+      "genre": [
+        "Adventure",
+        "Thriller"
+      ],
+      "plot": "When a killer shark unleashes chaos on a beach resort, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.",
+      "cast": [
+        {
+          "actor": "Roy Scheider",
+          "character": "Chief Martin Brody"
+        },
+        {
+          "actor": "Robert Shaw",
+          "character": "Quint"
+        },
+        {
+          "actor": "Richard Dreyfuss",
+          "character": "Matt Hooper"
+        },
+        {
+          "actor": "Lorraine Gary",
+          "character": "Ellen Brody"
+        }
+      ],
+      "oscars": {
+        "bestSound": "Robert L. Hoyt, Roger Heman Jr.",
+        "bestFilmEditing": "Verna Fields",
+        "bestOriginalScore": "John Williams"
+      },
+      "rating": 8
+    },
+    {
+      "id": 25,
+      "title": "The Terminator",
+      "year": 1984,
+      "director": "James Cameron",
+      "genre": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "plot": "A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.",
+      "cast": [
+        {
+          "actor": "Arnold Schwarzenegger",
+          "character": "The Terminator"
+        },
+        {
+          "actor": "Michael Biehn",
+          "character": "Kyle Reese"
+        },
+        {
+          "actor": "Linda Hamilton",
+          "character": "Sarah Connor"
+        },
+        {
+          "actor": "Paul Winfield",
+          "character": "Lieutenant Traxler"
+        }
+      ],
+      "oscars": {
+        "bestSoundEditing": "The Terminator"
+      },
+      "rating": 8
+    },
+    {
+      "id": 46,
+      "title": "Back to the Future",
+      "year": 1985,
+      "director": "Robert Zemeckis",
+      "genre": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "plot": "Marty McFly, a teenager, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend eccentric scientist Doc Brown. Marty encounters his young parents and must ensure they fall in love or risk altering the course of history.",
+      "cast": [
+        {
+          "actor": "Michael J. Fox",
+          "character": "Marty McFly"
+        },
+        {
+          "actor": "Christopher Lloyd",
+          "character": "Dr. Emmett Brown"
+        },
+        {
+          "actor": "Lea Thompson",
+          "character": "Lorraine Baines"
+        },
+        {
+          "actor": "Crispin Glover",
+          "character": "George McFly"
+        },
+        {
+          "actor": "Thomas F. Wilson",
+          "character": "Biff Tannen"
+        }
+      ],
+      "oscars": {
+        "bestSoundEffectsEditing": "Charles L. Campbell, Robert Rutledge"
+      },
+      "rating": 8.5
+    },
+    {
+      "id": 1,
+      "title": "The Departed",
+      "year": 2006,
+      "director": "Martin Scorsese",
+      "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "plot": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+      "cast": [
+        {
+          "actor": "Leonardo DiCaprio",
+          "character": "Billy Costigan"
+        },
+        {
+          "actor": "Matt Damon",
+          "character": "Colin Sullivan"
+        },
+        {
+          "actor": "Jack Nicholson",
+          "character": "Frank Costello"
+        },
+        {
+          "actor": "Mark Wahlberg",
+          "character": "Staff Sgt. Sean Dignam"
+        }
+      ],
+      "oscars": {
+        "bestPicture": "The Departed",
+        "bestDirector": "Martin Scorsese",
+        "bestAdaptedScreenplay": "William Monahan"
+      },
+      "rating": 8.5
+    },
+    {
+      "id": 8,
+      "title": "The Prestige",
+      "year": 2006,
+      "director": "Christopher Nolan",
+      "genre": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "plot": "Two stage magicians engage in competitive one-upmanship in an attempt to create the ultimate stage illusion.",
+      "cast": [
+        {
+          "actor": "Christian Bale",
+          "character": "Alfred Borden"
+        },
+        {
+          "actor": "Hugh Jackman",
+          "character": "Robert Angier"
+        },
+        {
+          "actor": "Scarlett Johansson",
+          "character": "Olivia Wenscombe"
+        },
+        {
+          "actor": "Michael Caine",
+          "character": "Cutter"
+        }
+      ],
+      "oscars": {
+        "bestArtDirection": "Nathan Crowley, Julie Ochipinti",
+        "bestCinematography": "Wally Pfister"
+      },
+      "rating": 8.5
+    },
+    {
+      "id": 18,
+      "title": "The Sixth Sense 2",
+      "year": 2003,
+      "director": "M. Night Shyamalan",
+      "genre": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "plot": "A boy who communicates with spirits seeks the help of a disheartened child psychologist.",
+      "cast": [
+        {
+          "actor": "Bruce Willis",
+          "character": "Dr. Malcolm Crowe"
+        },
+        {
+          "actor": "Haley Joel Osment",
+          "character": "Cole Sear"
+        },
+        {
+          "actor": "Toni Collette",
+          "character": "Lynn Sear"
+        },
+        {
+          "actor": "Olivia Williams",
+          "character": "Anna Crowe"
+        }
+      ],
+      "oscars": {
+        "bestActor": "Haley Joel Osment"
+      },
+      "rating": 8.1
+    },
+    {
+      "id": 6,
+      "title": "A Beautiful Mind",
+      "year": 2001,
+      "director": "Ron Howard",
+      "genre": [
+        "Biography",
+        "Drama"
+      ],
+      "plot": "After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.",
+      "cast": [
+        {
+          "actor": "Russell Crowe",
+          "character": "John Nash"
+        },
+        {
+          "actor": "Ed Harris",
+          "character": "Parcher"
+        },
+        {
+          "actor": "Jennifer Connelly",
+          "character": "Alicia Nash"
+        },
+        {
+          "actor": "Christopher Plummer",
+          "character": "Dr. Rosen"
+        }
+      ],
+      "oscars": {
+        "bestPicture": "A Beautiful Mind",
+        "bestDirector": "Ron Howard",
+        "bestActor": "Russell Crowe",
+        "bestSupportingActress": "Jennifer Connelly",
+        "bestAdaptedScreenplay": "Akiva Goldsman"
+      },
+      "rating": 8.2
+    },
+    {
+      "id": 45,
+      "title": "The Revenant",
+      "year": 2015,
+      "director": "Alejandro González Iñárritu",
+      "genre": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "plot": "A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team.",
+      "cast": [
+        {
+          "actor": "Leonardo DiCaprio",
+          "character": "Hugh Glass"
+        },
+        {
+          "actor": "Tom Hardy",
+          "character": "John Fitzgerald"
+        },
+        {
+          "actor": "Will Poulter",
+          "character": "Jim Bridger"
+        },
+        {
+          "actor": "Domhnall Gleeson",
+          "character": "Captain Andrew Henry"
+        }
+      ],
+      "oscars": {
+        "bestActor": "Leonardo DiCaprio",
+        "bestDirector": "Alejandro González Iñárritu",
+        "bestCinematography": "Emmanuel Lubezki"
+      },
+      "rating": 8
+    },
+    {
+      "id": 12,
+      "title": "Apocalypse Now",
+      "year": 1979,
+      "director": "Francis Ford Coppola",
+      "genre": [
+        "Drama",
+        "War"
+      ],
+      "plot": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.",
+      "cast": [
+        {
+          "actor": "Martin Sheen",
+          "character": "Captain Benjamin L. Willard"
+        },
+        {
+          "actor": "Marlon Brando",
+          "character": "Colonel Walter E. Kurtz"
+        },
+        {
+          "actor": "Robert Duvall",
+          "character": "Lieutenant Colonel Bill Kilgore"
+        },
+        {
+          "actor": "Frederic Forrest",
+          "character": "Chef"
+        },
+        {
+          "actor": "Albert Hall",
+          "character": "Chief"
+        },
+        {
+          "actor": "Sam Bottoms",
+          "character": "Lance B. Johnson"
+        },
+        {
+          "actor": "Larry Fishburne",
+          "character": "Tyrone 'Clean' Miller"
+        },
+        {
+          "actor": "Dennis Hopper",
+          "character": "Photojournalist"
+        },
+        {
+          "actor": "Harrison Ford",
+          "character": "Colonel G. Lucas"
+        },
+        {
+          "actor": "Scott Glenn",
+          "character": "Lieutenant Richard M. Colby"
+        },
+        {
+          "actor": "Laurence Fishburne",
+          "character": "Tyrone 'Mr. Clean' Miller"
+        },
+        {
+          "actor": "G.D. Spradlin",
+          "character": "General R. Corman"
+        },
+        {
+          "actor": "Cynthia Wood",
+          "character": "Playmate of the Year"
+        }
+      ],
+      "oscars": {
+        "bestCinematography": "Vittorio Storaro"
+      },
+      "rating": 8.4
+    },
+    {
+      "id": 40,
+      "title": "The Graduate",
+      "year": 1967,
+      "director": "Mike Nichols",
+      "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "plot": "A disillusioned college graduate finds himself torn between his older lover and her daughter.",
+      "cast": [
+        {
+          "actor": "Dustin Hoffman",
+          "character": "Benjamin Braddock"
+        },
+        {
+          "actor": "Anne Bancroft",
+          "character": "Mrs. Robinson"
+        },
+        {
+          "actor": "Katharine Ross",
+          "character": "Elaine Robinson"
+        },
+        {
+          "actor": "William Daniels",
+          "character": "Mr. Braddock"
+        }
+      ],
+      "oscars": {
+        "bestDirector": "Mike Nichols"
+      },
+      "rating": 8
+    },
+    {
+      "id": 49,
+      "title": "The Breakfast Club",
+      "year": 1985,
+      "director": "John Hughes",
+      "genre": [
+        "Comedy",
+        "Drama"
+      ],
+      "plot": "Five high school students with nothing in common spend a Saturday detention together in their high school library.",
+      "cast": [
+        {
+          "actor": "Emilio Estevez",
+          "character": "Andrew Clark"
+        },
+        {
+          "actor": "Judd Nelson",
+          "character": "John Bender"
+        },
+        {
+          "actor": "Molly Ringwald",
+          "character": "Claire Standish"
+        },
+        {
+          "actor": "Anthony Michael Hall",
+          "character": "Brian Johnson"
+        },
+        {
+          "actor": "Ally Sheedy",
+          "character": "Allison Reynolds"
+        },
+        {
+          "actor": "Paul Gleason",
+          "character": "Assistant Principal Richard Vernon"
+        }
+      ],
+      "oscars": {
+        "bestOriginalScreenplay": "John Hughes"
+      },
+      "rating": 7.8
+    },
+    {
+      "id": 15,
+      "title": "The Sound of Music",
+      "year": 1965,
+      "director": "Robert Wise",
+      "genre": [
+        "Biography",
+        "Drama",
+        "Family"
+      ],
+      "plot": "A woman leaves an Austrian convent to become a governess to the children of a Naval officer widower.",
+      "cast": [
+        {
+          "actor": "Julie Andrews",
+          "character": "Maria"
+        },
+        {
+          "actor": "Christopher Plummer",
+          "character": "Captain von Trapp"
+        },
+        {
+          "actor": "Eleanor Parker",
+          "character": "Baroness"
+        },
+        {
+          "actor": "Richard Haydn",
+          "character": "Uncle Max"
+        }
+      ],
+      "oscars": {
+        "bestPicture": "The Sound of Music",
+        "bestDirector": "Robert Wise",
+        "bestSound": "James Corcoran, Fred Hynes"
+      },
+      "rating": 8
+    },
+    {
+      "id": 36,
+      "title": "The Grand Budapest Hotel",
+      "year": 2014,
+      "director": "Wes Anderson",
+      "genre": [
+        "Adventure",
+        "Comedy",
+        "Crime"
+      ],
+      "plot": "A hotel concierge and his lobby boy become involved in a murder mystery at the Grand Budapest Hotel.",
+      "cast": [
+        {
+          "actor": "Ralph Fiennes",
+          "character": "Gustave H."
+        },
+        {
+          "actor": "F. Murray Abraham",
+          "character": "Mr. Moustafa"
+        },
+        {
+          "actor": "Mathieu Amalric",
+          "character": "Serge X."
+        },
+        {
+          "actor": "Adrien Brody",
+          "character": "Dmitri Desgoffe-und-Taxis"
+        },
+        {
+          "actor": "Willem Dafoe",
+          "character": "J.G. Jopling"
+        },
+        {
+          "actor": "Jeff Goldblum",
+          "character": "Deputy Kovacs"
+        },
+        {
+          "actor": "Harvey Keitel",
+          "character": "Ludwig"
+        },
+        {
+          "actor": "Jude Law",
+          "character": "Young Writer"
+        },
+        {
+          "actor": "Bill Murray",
+          "character": "M. Ivan"
+        },
+        {
+          "actor": "Edward Norton",
+          "character": "Henckels"
+        },
+        {
+          "actor": "Saoirse Ronan",
+          "character": "Agatha"
+        },
+        {
+          "actor": "Jason Schwartzman",
+          "character": "M. Jean"
+        },
+        {
+          "actor": "Tilda Swinton",
+          "character": "Madame D."
+        },
+        {
+          "actor": "Owen Wilson",
+          "character": "M. Chuck"
+        },
+        {
+          "actor": "Bob Balaban",
+          "character": "M. Martin"
+        },
+        {
+          "actor": "Mathieu Amalric",
+          "character": "Serge X."
+        }
+      ],
+      "oscars": {
+        "bestCostumeDesign": "Milena Canonero",
+        "bestMakeupHairstyling": "Frances Hannon, Mark Coulier",
+        "bestProductionDesign": "Adam Stockhausen, Anna Pinnock"
+      },
+      "rating": 8.1
+    },
+    {
+      "id": 29,
+      "title": "Inglourious Basterds",
+      "year": 2009,
+      "director": "Quentin Tarantino",
+      "genre": [
+        "Adventure",
+        "Drama",
+        "War"
+      ],
+      "plot": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theater owner's vengeful plans for the same.",
+      "cast": [
+        {
+          "actor": "Brad Pitt",
+          "character": "Lt. Aldo Raine"
+        },
+        {
+          "actor": "Mélanie Laurent",
+          "character": "Shosanna Dreyfus"
+        },
+        {
+          "actor": "Christoph Waltz",
+          "character": "Col. Hans Landa"
+        },
+        {
+          "actor": "Eli Roth",
+          "character": "Sgt. Donny Donowitz"
+        },
+        {
+          "actor": "Michael Fassbender",
+          "character": "Lt. Archie Hicox"
+        },
+        {
+          "actor": "Diane Kruger",
+          "character": "Bridget von Hammersmark"
+        },
+        {
+          "actor": "Daniel Brühl",
+          "character": "Fredrick Zoller"
+        },
+        {
+          "actor": "Til Schweiger",
+          "character": "Sgt. Hugo Stiglitz"
+        },
+        {
+          "actor": "Gedeon Burkhard",
+          "character": "Cpl. Wilhelm Wicki"
+        },
+        {
+          "actor": "Jacky Ido",
+          "character": "Marcel"
+        },
+        {
+          "actor": "B.J. Novak",
+          "character": "Pfc. Smithson Utivich"
+        },
+        {
+          "actor": "Omar Doom",
+          "character": "Pfc. Omar Ulmer"
+        },
+        {
+          "actor": "August Diehl",
+          "character": "Major Hellstrom"
+        },
+        {
+          "actor": "Denis Menochet",
+          "character": "Perrier LaPadite"
+        },
+        {
+          "actor": "Sylvester Groth",
+          "character": "Joseph Goebbels"
+        }
+      ],
+      "oscars": {
+        "bestSupportingActor": "Christoph Waltz"
+      },
+      "rating": 8.3
+    },
+    {
+      "id": 31,
+      "title": "Requiem for a Dream",
+      "year": 2000,
+      "director": "Darren Aronofsky",
+      "genre": [
+        "Drama"
+      ],
+      "plot": "The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.",
+      "cast": [
+        {
+          "actor": "Ellen Burstyn",
+          "character": "Sara Goldfarb"
+        },
+        {
+          "actor": "Jared Leto",
+          "character": "Harry Goldfarb"
+        },
+        {
+          "actor": "Jennifer Connelly",
+          "character": "Marion Silver"
+        },
+        {
+          "actor": "Marlon Wayans",
+          "character": "Tyrone C. Love"
+        }
+      ],
+      "oscars": {
+        "bestActress": "Ellen Burstyn"
+      },
+      "rating": 8.3
+    },
+    {
+      "id": 47,
+      "title": "The Exorcist",
+      "year": 1973,
+      "director": "William Friedkin",
+      "genre": [
+        "Horror"
+      ],
+      "plot": "When a teenage girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her daughter.",
+      "cast": [
+        {
+          "actor": "Ellen Burstyn",
+          "character": "Chris MacNeil"
+        },
+        {
+          "actor": "Max von Sydow",
+          "character": "Father Merrin"
+        },
+        {
+          "actor": "Linda Blair",
+          "character": "Regan MacNeil"
+        },
+        {
+          "actor": "Jason Miller",
+          "character": "Father Karras"
+        }
+      ],
+      "oscars": {
+        "bestAdaptedScreenplay": "William Peter Blatty"
+      },
+      "rating": 8
+    },
+    {
+      "id": 53,
+      "title": "2001: A Space Odyssey",
+      "year": 1968,
+      "director": "Stanley Kubrick",
+      "genre": [
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "plot": "After discovering a mysterious artifact buried beneath the lunar surface, mankind sets off on a quest to find its origins with help from intelligent supercomputer HAL 9000.",
+      "cast": [
+        {
+          "actor": "Keir Dullea",
+          "character": "Dr. Dave Bowman"
+        },
+        {
+          "actor": "Gary Lockwood",
+          "character": "Dr. Frank Poole"
+        },
+        {
+          "actor": "Douglas Rain",
+          "character": "HAL 9000 (voice)"
+        },
+        {
+          "actor": "William Sylvester",
+          "character": "Dr. Heywood R. Floyd"
+        }
+      ],
+      "oscars": {
+        "bestVisualEffects": "Stanley Kubrick"
+      },
+      "rating": 8.3
+    },
+    {
+      "id": 5,
+      "title": "Casablanca",
+      "year": 1942,
+      "director": "Michael Curtiz",
+      "genre": [
+        "Drama",
+        "Romance",
+        "War"
+      ],
+      "plot": "During World War II, Rick Blaine, a cynical nightclub owner in Casablanca, Morocco, becomes entangled with his former lover Ilsa Lund and her husband, Victor Laszlo, a resistance leader. As Rick's past and his feelings for Ilsa resurface, he must make a difficult decision that will impact their lives and the war effort.",
+      "cast": [
+        {
+          "actor": "Humphrey Bogart",
+          "character": "Rick Blaine"
+        },
+        {
+          "actor": "Ingrid Bergman",
+          "character": "Ilsa Lund"
+        },
+        {
+          "actor": "Paul Henreid",
+          "character": "Victor Laszlo"
+        },
+        {
+          "actor": "Claude Rains",
+          "character": "Captain Louis Renault"
+        },
+        {
+          "actor": "Conrad Veidt",
+          "character": "Major Heinrich Strasser"
+        },
+        {
+          "actor": "Sydney Greenstreet",
+          "character": "Signor Ferrari"
+        },
+        {
+          "actor": "Peter Lorre",
+          "character": "Ugarte"
+        },
+        {
+          "actor": "Dooley Wilson",
+          "character": "Sam"
+        },
+        {
+          "actor": "S.Z. Sakall",
+          "character": "Carl"
+        },
+        {
+          "actor": "Madeleine Lebeau",
+          "character": "Yvonne"
+        },
+        {
+          "actor": "Joy Page",
+          "character": "Annina Brandel"
+        },
+        {
+          "actor": "John Qualen",
+          "character": "Berger"
+        }
+      ],
+      "oscars": {
+        "bestPicture": "Casablanca",
+        "bestDirector": "Michael Curtiz",
+        "bestActor": "Humphrey Bogart",
+        "bestAdaptedScreenplay": "Julius J. Epstein, Philip G. Epstein, Howard Koch",
+        "bestCinematography": "Arthur Edeson"
+      },
+      "rating": 8.5
+    },
+    {
+      "id": 38,
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year": 1975,
+      "director": "Milos Forman",
+      "genre": [
+        "Drama"
+      ],
+      "plot": "Randle P. McMurphy, a troublemaking criminal, feigns insanity to avoid a prison sentence and ends up in a mental hospital. He soon clashes with the authoritarian Nurse Ratched, and his rebellious nature inspires the other patients to challenge her authority.",
+      "cast": [
+        {
+          "actor": "Jack Nicholson",
+          "character": "Randle P. McMurphy"
+        },
+        {
+          "actor": "Louise Fletcher",
+          "character": "Nurse Ratched"
+        },
+        {
+          "actor": "Danny DeVito",
+          "character": "Martini"
+        },
+        {
+          "actor": "Christopher Lloyd",
+          "character": "Taber"
+        },
+        {
+          "actor": "Will Sampson",
+          "character": "Chief Bromden"
+        },
+        {
+          "actor": "William Redfield",
+          "character": "Dale Harding"
+        },
+        {
+          "actor": "Scatman Crothers",
+          "character": "Orderly Turkle"
+        },
+        {
+          "actor": "Vincent Schiavelli",
+          "character": "Bruce Frederickson"
+        },
+        {
+          "actor": "Louisa Moritz",
+          "character": "Rose"
+        },
+        {
+          "actor": "Dean R. Brooks",
+          "character": "Dr. Spivey"
+        },
+        {
+          "actor": "Sydney Lassick",
+          "character": "Charlie Cheswick"
+        },
+        {
+          "actor": "William Duell",
+          "character": "Jim Sefelt"
+        },
+        {
+          "actor": "Brad Dourif",
+          "character": "Billy Bibbit"
+        }
+      ],
+      "oscars": {
+        "bestPicture": "One Flew Over the Cuckoo's Nest",
+        "bestDirector": "Milos Forman",
+        "bestActor": "Jack Nicholson",
+        "bestActress": "Louise Fletcher",
+        "bestAdaptedScreenplay": "Bo Goldman, Lawrence Hauben"
+      },
+      "rating": 8.7
+    },
+    {
+      "id": 42,
+      "title": "The Green Mile",
+      "year": 1999,
+      "director": "Frank Darabont",
+      "genre": [
+        "Crime",
+        "Drama",
+        "Fantasy"
+      ],
+      "plot": "Set in the 1930s, a gentle giant named John Coffey is accused of murdering two young girls. A corrections officer, Paul Edgecomb, discovers that there is more to John than meets the eye. As events unfold, Paul begins to question John's guilt and realizes that he possesses mysterious healing powers.",
+      "cast": [
+        {
+          "actor": "Tom Hanks",
+          "character": "Paul Edgecomb"
+        },
+        {
+          "actor": "Michael Clarke Duncan",
+          "character": "John Coffey"
+        },
+        {
+          "actor": "David Morse",
+          "character": "Brutus 'Brutal' Howell"
+        },
+        {
+          "actor": "Bonnie Hunt",
+          "character": "Jan Edgecomb"
+        },
+        {
+          "actor": "James Cromwell",
+          "character": "Warden Hal Moores"
+        },
+        {
+          "actor": "Michael Jeter",
+          "character": "Eduard 'Del' Delacroix"
+        },
+        {
+          "actor": "Graham Greene",
+          "character": "Arlen Bitterbuck"
+        },
+        {
+          "actor": "Doug Hutchison",
+          "character": "Percy Wetmore"
+        },
+        {
+          "actor": "Sam Rockwell",
+          "character": "William 'Wild Bill' Wharton"
+        },
+        {
+          "actor": "Barry Pepper",
+          "character": "Dean Stanton"
+        },
+        {
+          "actor": "Patricia Clarkson",
+          "character": "Melinda Moores"
+        },
+        {
+          "actor": "Harry Dean Stanton",
+          "character": "Toot-Toot"
+        },
+        {
+          "actor": "Dabbs Greer",
+          "character": "Old Paul Edgecomb"
+        },
+        {
+          "actor": "Eve Brent",
+          "character": "Elaine Connelly"
+        },
+        {
+          "actor": "William Sadler",
+          "character": "Klaus Detterick"
+        }
+      ],
+      "oscars": {
+        "bestPicture": "The Green Mile",
+        "bestAdaptedScreenplay": "Frank Darabont",
+        "bestSound": "Robert J. Litt, Elliot Tyson, Michael Herbick, Willie D. Burton",
+        "bestSupportingActor": "Michael Clarke Duncan"
+      },
+      "rating": 8.6
+    },
+    {
+      "id": 37,
+      "title": "No Country for Old Men",
+      "year": 2007,
+      "director": "Joel and Ethan Coen",
+      "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "plot": "Llewelyn Moss stumbles upon a drug deal gone wrong in the desert and takes a briefcase full of money. This sets off a violent chain of events involving a relentless hitman named Anton Chigurh and a local sheriff, Ed Tom Bell, who is trying to maintain order in a world gone mad.",
+      "cast": [
+        {
+          "actor": "Tommy Lee Jones",
+          "character": "Sheriff Ed Tom Bell"
+        },
+        {
+          "actor": "Javier Bardem",
+          "character": "Anton Chigurh"
+        },
+        {
+          "actor": "Josh Brolin",
+          "character": "Llewelyn Moss"
+        },
+        {
+          "actor": "Woody Harrelson",
+          "character": "Carson Wells"
+        }
+      ],
+      "oscars": {
+        "bestPicture": "No Country for Old Men",
+        "bestDirector": "Joel and Ethan Coen",
+        "bestSupportingActor": "Javier Bardem",
+        "bestAdaptedScreenplay": "Joel and Ethan Coen",
+        "bestCinematography": "Roger Deakins"
+      },
+      "rating": 8.1
+    },
+    {
+      "id": 26,
+      "title": "The Silence of the Lambs",
+      "year": 1991,
+      "director": "Jonathan Demme",
+      "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "plot": "A young FBI trainee, Clarice Starling, seeks the help of the brilliant yet insane serial killer, Dr. Hannibal Lecter, to catch another serial killer known as Buffalo Bill. The two form an uneasy alliance as they work to solve the case.",
+      "cast": [
+        {
+          "actor": "Jodie Foster",
+          "character": "Clarice Starling"
+        },
+        {
+          "actor": "Anthony Hopkins",
+          "character": "Dr. Hannibal Lecter"
+        },
+        {
+          "actor": "Scott Glenn",
+          "character": "Jack Crawford"
+        },
+        {
+          "actor": "Ted Levine",
+          "character": "Buffalo Bill"
+        }
+      ],
+      "oscars": {
+        "bestPicture": "The Silence of the Lambs",
+        "bestDirector": "Jonathan Demme",
+        "bestActor": "Anthony Hopkins",
+        "bestActress": "Jodie Foster",
+        "bestAdaptedScreenplay": "Ted Tally",
+        "bestFilmEditing": "Craig McKay"
+      },
+      "rating": 8.6
+    },
+    {
+      "id": 28,
+      "title": "A Streetcar Named Desire",
+      "year": 1951,
+      "director": "Elia Kazan",
+      "genre": [
+        "Drama"
+      ],
+      "plot": "Blanche DuBois, a troubled woman with a mysterious past, moves in with her sister Stella and her husband Stanley Kowalski in New Orleans. As Blanche and Stanley's personalities clash, tensions rise, leading to a dramatic and tragic conflict.",
+      "cast": [
+        {
+          "actor": "Vivien Leigh",
+          "character": "Blanche DuBois"
+        },
+        {
+          "actor": "Marlon Brando",
+          "character": "Stanley Kowalski"
+        },
+        {
+          "actor": "Kim Hunter",
+          "character": "Stella Kowalski"
+        },
+        {
+          "actor": "Karl Malden",
+          "character": "Mitch"
+        }
+      ],
+      "oscars": {
+        "bestPicture": "A Streetcar Named Desire",
+        "bestDirector": "Elia Kazan",
+        "bestActor": "Marlon Brando",
+        "bestSupportingActress": "Kim Hunter",
+        "bestSupportingActor": "Karl Malden"
+      },
+      "rating": 8
+    }
+  ],
+  "genres": [
+    "Crime",
+    "Drama",
+    "Biography",
+    "History",
+    "Action",
+    "Thriller",
+    "Western",
+    "Mystery",
+    "Sci-Fi",
+    "Adventure",
+    "Family",
+    "Fantasy",
+    "Romance",
+    "War",
+    "Animation",
+    "Horror",
+    "Comedy"
+  ],
+  "actors": [
+    {
+      "id": 1,
+      "name": "Harvey Keitel",
+      "birthdate": "May 13, 1939",
+      "height": 176,
+      "nationality": "American",
+      "notable_works": [
+        "Reservoir Dogs",
+        "Pulp Fiction",
+        "Taxi Driver",
+        "The Piano",
+        "Mean Streets"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Leonardo DiCaprio",
+      "birthdate": "November 11, 1974",
+      "height": 183,
+      "nationality": "American",
+      "notable_works": [
+        "Titanic",
+        "Inception",
+        "The Revenant",
+        "The Wolf of Wall Street",
+        "Django Unchained"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Brad Pitt",
+      "birthdate": "December 18, 1963",
+      "height": 180,
+      "nationality": "American",
+      "notable_works": [
+        "Fight Club",
+        "Inglourious Basterds",
+        "12 Monkeys",
+        "The Curious Case of Benjamin Button",
+        "Once Upon a Time in Hollywood"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Harrison Ford",
+      "birthdate": "July 13, 1942",
+      "height": 185,
+      "nationality": "American",
+      "notable_works": [
+        "Star Wars",
+        "Indiana Jones series",
+        "Blade Runner",
+        "The Fugitive",
+        "Witness"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Jack Nicholson",
+      "birthdate": "April 22, 1937",
+      "height": 177,
+      "nationality": "American",
+      "notable_works": [
+        "One Flew Over the Cuckoo's Nest",
+        "The Shining",
+        "Chinatown",
+        "Batman",
+        "A Few Good Men"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Marlon Brando",
+      "birthdate": "April 3, 1924",
+      "height": 175,
+      "nationality": "American",
+      "notable_works": [
+        "The Godfather",
+        "On the Waterfront",
+        "Apocalypse Now",
+        "A Streetcar Named Desire",
+        "Last Tango in Paris"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Tom Hanks",
+      "birthdate": "July 9, 1956",
+      "height": 183,
+      "nationality": "American",
+      "notable_works": [
+        "Forrest Gump",
+        "Saving Private Ryan",
+        "Philadelphia",
+        "Cast Away",
+        "Toy Story series"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Barry Pepper",
+      "birthdate": "April 4, 1970",
+      "height": null,
+      "nationality": "Canadian",
+      "notable_works": [
+        "Saving Private Ryan",
+        "The Green Mile",
+        "25th Hour",
+        "True Grit",
+        "Maze Runner: The Scorch Trials"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Bruce Willis",
+      "birthdate": "March 19, 1955",
+      "height": 183,
+      "nationality": "American",
+      "notable_works": [
+        "Die Hard",
+        "Pulp Fiction",
+        "The Sixth Sense",
+        "Unbreakable",
+        "The Fifth Element"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Christian Bale",
+      "birthdate": "January 30, 1974",
+      "height": 183,
+      "nationality": "British",
+      "notable_works": [
+        "The Dark Knight Trilogy",
+        "American Psycho",
+        "The Fighter",
+        "The Prestige",
+        "American Hustle"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Christopher Lloyd",
+      "birthdate": "October 22, 1938",
+      "height": 185,
+      "nationality": "American",
+      "notable_works": [
+        "Back to the Future trilogy",
+        "Who Framed Roger Rabbit",
+        "The Addams Family",
+        "Star Trek III: The Search for Spock",
+        "Taxi (TV series)"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Christopher Plummer",
+      "birthdate": "December 13, 1929",
+      "height": 178,
+      "nationality": "Canadian",
+      "notable_works": [
+        "The Sound of Music",
+        "Beginners",
+        "All the Money in the World",
+        "Knives Out",
+        "The Girl with the Dragon Tattoo"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Edward Norton",
+      "birthdate": "August 18, 1969",
+      "height": 183,
+      "nationality": "American",
+      "notable_works": [
+        "Fight Club",
+        "American History X",
+        "Primal Fear",
+        "The Illusionist",
+        "Birdman"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Ellen Burstyn",
+      "birthdate": "December 7, 1932",
+      "height": 173,
+      "nationality": "American",
+      "notable_works": [
+        "Requiem for a Dream",
+        "The Exorcist",
+        "Alice Doesn't Live Here Anymore",
+        "The Last Picture Show",
+        "The Fountain"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "F. Murray Abraham",
+      "birthdate": "October 24, 1939",
+      "height": 180,
+      "nationality": "American",
+      "notable_works": [
+        "Amadeus",
+        "The Grand Budapest Hotel",
+        "Scarface",
+        "Inside Llewyn Davis",
+        "Mighty Aphrodite"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Helena Bonham Carter",
+      "birthdate": "May 26, 1966",
+      "height": 157,
+      "nationality": "British",
+      "notable_works": [
+        "The King's Speech",
+        "Fight Club",
+        "Alice in Wonderland",
+        "Sweeney Todd: The Demon Barber of Fleet Street",
+        "The Wings of the Dove"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Jeff Goldblum",
+      "birthdate": "October 22, 1952",
+      "height": 193,
+      "nationality": "American",
+      "notable_works": [
+        "Jurassic Park",
+        "The Fly",
+        "Independence Day",
+        "The Grand Budapest Hotel",
+        "Thor: Ragnarok"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Jennifer Connelly",
+      "birthdate": "December 12, 1970",
+      "height": 169,
+      "nationality": "American",
+      "notable_works": [
+        "A Beautiful Mind",
+        "Requiem for a Dream",
+        "Labyrinth",
+        "The Rocketeer",
+        "House of Sand and Fog"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Jodie Foster",
+      "birthdate": "November 19, 1962",
+      "height": 160,
+      "nationality": "American",
+      "notable_works": [
+        "The Silence of the Lambs",
+        "Taxi Driver",
+        "Panic Room",
+        "Contact",
+        "Nell"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Kevin Spacey",
+      "birthdate": "July 26, 1959",
+      "height": 178,
+      "nationality": "American",
+      "notable_works": [
+        "American Beauty",
+        "The Usual Suspects",
+        "Se7en",
+        "House of Cards (TV series)",
+        "L.A. Confidential"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Laurence Fishburne",
+      "birthdate": "July 30, 1961",
+      "height": 183,
+      "nationality": "American",
+      "notable_works": [
+        "The Matrix",
+        "Apocalypse Now",
+        "The Shawshank Redemption",
+        "Boyz n the Hood",
+        "What's Love Got to Do with It"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Mathieu Amalric",
+      "birthdate": "October 25, 1965",
+      "height": 167,
+      "nationality": "French",
+      "notable_works": [
+        "The Diving Bell and the Butterfly",
+        "The Grand Budapest Hotel",
+        "Quantum of Solace",
+        "Munich",
+        "The Ghost Writer"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Matt Damon",
+      "birthdate": "October 8, 1970",
+      "height": 178,
+      "nationality": "American",
+      "notable_works": [
+        "Good Will Hunting",
+        "The Bourne Identity",
+        "The Martian",
+        "Saving Private Ryan",
+        "Ocean's Eleven"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Michael Caine",
+      "birthdate": "March 14, 1933",
+      "height": 188,
+      "nationality": "British",
+      "notable_works": [
+        "The Dark Knight",
+        "The Cider House Rules",
+        "The Italian Job",
+        "Alfie",
+        "Get Carter"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Morgan Freeman",
+      "birthdate": "June 1, 1937",
+      "height": 188,
+      "nationality": "American",
+      "notable_works": [
+        "The Shawshank Redemption",
+        "Million Dollar Baby",
+        "Driving Miss Daisy",
+        "Invictus",
+        "Se7en"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Ralph Fiennes",
+      "birthdate": "December 22, 1962",
+      "height": 180,
+      "nationality": "British",
+      "notable_works": [
+        "Schindler's List",
+        "The English Patient",
+        "The Grand Budapest Hotel",
+        "The Constant Gardener",
+        "Harry Potter series"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Robert De Niro",
+      "birthdate": "August 17, 1943",
+      "height": 177,
+      "nationality": "American",
+      "notable_works": [
+        "Taxi Driver",
+        "Raging Bull",
+        "The Godfather Part II",
+        "Goodfellas",
+        "Heat"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Robert Duvall",
+      "birthdate": "January 5, 1931",
+      "height": 175,
+      "nationality": "American",
+      "notable_works": [
+        "The Godfather",
+        "Apocalypse Now",
+        "Lonesome Dove",
+        "Tender Mercies",
+        "To Kill a Mockingbird"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Robin Wright",
+      "birthdate": "April 8, 1966",
+      "height": 168,
+      "nationality": "American",
+      "notable_works": [
+        "Forrest Gump",
+        "House of Cards (TV series)",
+        "The Princess Bride",
+        "Blade Runner 2049",
+        "Wonder Woman"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Russell Crowe",
+      "birthdate": "April 7, 1964",
+      "height": 183,
+      "nationality": "New Zealander",
+      "notable_works": [
+        "Gladiator",
+        "A Beautiful Mind",
+        "The Insider",
+        "L.A. Confidential",
+        "Master and Commander: The Far Side of the World"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Scott Glenn",
+      "birthdate": "January 26, 1941",
+      "height": 183,
+      "nationality": "American",
+      "notable_works": [
+        "The Right Stuff",
+        "Urban Cowboy",
+        "The Hunt for Red October",
+        "The Silence of the Lambs",
+        "The Bourne Ultimatum"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Steve Buscemi",
+      "birthdate": "December 13, 1957",
+      "height": 173,
+      "nationality": "American",
+      "notable_works": [
+        "Fargo",
+        "Reservoir Dogs",
+        "The Big Lebowski",
+        "Boardwalk Empire (TV series)",
+        "Armageddon"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Tim Roth",
+      "birthdate": "May 14, 1961",
+      "height": 168,
+      "nationality": "British",
+      "notable_works": [
+        "Reservoir Dogs",
+        "Pulp Fiction",
+        "Rob Roy",
+        "The Hateful Eight",
+        "Lie to Me (TV series)"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Tom Hardy",
+      "birthdate": "September 15, 1977",
+      "height": 175,
+      "nationality": "British",
+      "notable_works": [
+        "Inception",
+        "The Dark Knight Rises",
+        "Mad Max: Fury Road",
+        "Bronson",
+        "Dunkirk"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "William Sadler",
+      "birthdate": "April 13, 1950",
+      "height": 180,
+      "nationality": "American",
+      "notable_works": [
+        "The Shawshank Redemption",
+        "Die Hard 2",
+        "Bill & Ted's Bogus Journey",
+        "The Green Mile",
+        "The Mist"
+      ]
+    }
+  ]
+}

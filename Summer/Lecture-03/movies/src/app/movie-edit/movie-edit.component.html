@@ -1,0 +1,13 @@
+<div *ngIf="!movie"> No Movie Loaded</div>
+
+<div *ngIf="!!movie">
+    <p>ID: {{movie.id}} </p>
+    <p>Title: <input type="text" [(ngModel)]="movie.title"/> </p>
+    <p>Director: {{movie.director}} </p>
+    <p>Year:  <input type="number" [(ngModel)]="movie.year" /> </p>
+    <p>Rating: {{movie.rating}} </p>
+    <p>Genre: {{movie.genre}} </p>
+    <p>Plot: {{movie.plot}} </p>
+
+    <button (click)="saveMovie()">Save</button>
+</div>
